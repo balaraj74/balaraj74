@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Balu
+# 👋 Hi, I’m Balaraj R
 ### Aspiring AI/ML • Data Science • Cybersecurity • Full‑Stack Developer  
 Karnataka, India 🇮🇳 • BTech CSE (AI/ML), PES University (PESU)
 
@@ -13,7 +13,7 @@ Karnataka, India 🇮🇳 • BTech CSE (AI/ML), PES University (PESU)
 ---
 
 ## 👋 Introduction
-I’m Balu — a curious, hands-on technologist driven to build impactful, real‑world AI systems that are accurate, reproducible, and ethically grounded. I’m pursuing BTech in Computer Science Engineering at PES University, specializing in AI/ML. My work blends research and engineering, with a focus on trustworthy, human‑centered AI and open collaboration.
+I’m Balaraj — a curious, hands-on technologist driven to build impactful, real‑world AI systems that are accurate, reproducible, and ethically grounded. I’m pursuing BTech in Computer Science Engineering at PES University, specializing in AI/ML. My work blends research and engineering, with a focus on trustworthy, human‑centered AI and open collaboration.
 
 > “Innovation matters most when it improves lives — responsibly.”
 
