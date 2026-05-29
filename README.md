@@ -5,7 +5,7 @@
 
 <!-- Animated typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=🤖+Building+Production-Ready+AI+Systems;🏆+2×+National+Hackathon+Winner;☁️+Google+Cloud+%7C+Azure+%7C+Firebase+Engineer;🧠+Agentic+AI+%7C+RAG+%7C+Multi-Agent+Orchestration;🌾+AgriTech+AI+%7C+HealthTech+AI+%7C+Career+Intelligence;⚡+PES+University+—+CSE+(AI+%26+ML)+2024–2028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;height=45&amp;lines=%F0%9F%A4%96%20Building%20Production-Ready%20AI%20Systems%3B%F0%9F%8F%86%202%C3%97%20National%20Hackathon%20Winner%3B%E2%98%81%EF%B8%8F%20Google%20Cloud%20%7C%20Azure%20%7C%20Firebase%20Engineer%3B%F0%9F%A7%A0%20Agentic%20AI%20%7C%20RAG%20%7C%20Multi-Agent%20Orchestration%3B%F0%9F%8C%BE%20AgriTech%20AI%20%7C%20HealthTech%20AI%20%7C%20Career%20Intelligence%3B%E2%9A%A1%20PES%20University%20%E2%80%94%20CSE%20%28AI%20%26%20ML%29%202024%E2%80%932028" alt="Typing SVG" />
 </a>
 
 <br/>
