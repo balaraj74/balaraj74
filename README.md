@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" />
 </p>
 
+<!-- Custom Interactive/Animated SVG Pipeline Flow Visualizer -->
+<p align="center">
+  <img src="agent-pipeline.svg" width="100%" alt="Balaraj R's Agentic AI Multi-Agent Orchestration Flow Pipeline" />
+</p>
+
 </div>
 
 ---
@@ -117,172 +122,192 @@ class BalarajR:
 
 ## 🚀 Flagship Projects
 
+### 🩺 VaidyaOS — Edge AI Healthcare Operating System
 <div align="center">
 
-### 🩺 VaidyaOS — Edge AI Healthcare OS
-[![VaidyaOS](https://img.shields.io/badge/GitHub-VaidyaOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/VaidyaOS)
+[![VaidyaOS GitHub](https://img.shields.io/badge/GitHub-VaidyaOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/VaidyaOS)
 [![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://roaring-valkyrie-042963.netlify.app/VaidyaOS.apk)
 
 </div>
 
-> **Flagship AI Healthcare Platform** — Offline-first, on-device AI inference for medical assistance
+VaidyaOS is an edge-based, offline-first artificial intelligence operating system designed for healthcare accessibility. Engineered to operate under zero-connectivity constraints, it enables clinical triage and medical support directly on mobile devices by running quantized Large Language Models (LLMs) locally. It provides rural patients and medical professionals with offline clinical reasoning, multilingual medical terminology translation, and local health record caching.
 
-- 🧠 Uses **Llama.cpp + Gemma GGUF** for fully offline medical reasoning
-- 📱 Built with **React Native** for cross-platform mobile deployment
-- 🔥 **Firebase** backend for sync when online; edge-first when offline
-- 🏥 Multilingual multilingual support for rural healthcare access
-- **Stack:** `React Native` · `Gemma` · `Llama.cpp` · `Firebase` · `Python`
+- 🧠 **On-Device AI Inference**: Uses **Llama.cpp + Gemma GGUF** for fully offline, private medical reasoning.
+- 📱 **Cross-Platform Mobile App**: Built with **React Native** to ensure seamless deployment on Android and iOS devices.
+- 🔥 **Hybrid Sync Backend**: Deploys a **Firebase** database for online synchronization and edge-first caching.
+- 🏥 **Multilingual Support**: Translates symptoms and diagnosis across regional Indian languages.
+- **Stack**: `React Native` · `Gemma` · `Llama.cpp` · `Firebase` · `Python`
 
 ---
 
+### 🎯 CareerLens — AI Career Intelligence Platform
 <div align="center">
 
-### 🎯 CareerLens — AI Career Intelligence Platform
 [![CareerLens GitHub](https://img.shields.io/badge/GitHub-CareerLens-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/careerlens)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-careerlens.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://careerlens--careerlens-1.us-central1.hosted.app)
 [![Winner Badge](https://img.shields.io/badge/🏆_Google_Gen_AI_Exchange-NATIONAL_WINNER-FFD700?style=for-the-badge)](https://careerlens--careerlens-1.us-central1.hosted.app)
 
 </div>
 
-> **🏆 Google Gen AI Exchange Hackathon — National Winner** | 40,000+ lines · 32 microservices · 320+ commits
+CareerLens is a highly scalable, event-driven AI platform designed for career intelligence and resume optimization. Selected as the National Winner of the Google Gen AI Exchange, the system automates resume analysis, evaluates technical skill gaps, and dynamically compiles interactive learning roadmaps. It integrates with real-time job market APIs and educational platforms to deliver personalized upskilling pathways.
 
-- 🎯 Resume analysis with **ATS-aware optimization** using Gemini 1.5 Pro
-- 🗺️ Personalized **career roadmap generation** from skill gap analysis
-- ⚙️ **32 microservices** architected for production scale
-- 📊 Real-time job market intelligence and learning path curation
-- **Stack:** `Next.js 15` · `TypeScript` · `Gemini 1.5 Pro` · `Cloud Functions` · `Firebase`
+- 🎯 **ATS Optimization**: Direct resume parsing and **ATS-aware feedback** powered by Gemini 1.5 Pro.
+- ⚙️ **Event-Driven Services**: Scaled across **32 microservices** utilizing background task queues.
+- 🗺️ **Interactive Roadmap**: Renders customized learning graphs in Next.js using **React Flow**.
+- 📊 **Real-time Curation**: Aggregates courses from Coursera and NPTEL based on market demand.
+- **Stack**: `Next.js 15` · `TypeScript` · `Gemini 1.5 Pro` · `Cloud Functions` · `Firebase`
 
 ---
 
+### 🌾 AgriSence — AI Smart Farming Platform
 <div align="center">
 
-### 🌾 AgriSence — AI Smart Farming Platform
 [![AgriSence GitHub](https://img.shields.io/badge/GitHub-AgriSence-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/AgriSence)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-agrisence.app-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
 [![Winner Badge](https://img.shields.io/badge/🥇_INFERENTIA_2.0-STATE_WINNER-gold?style=for-the-badge)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
 
 </div>
 
-> **🥇 INFERENTIA 2.0 State-Level Hackathon — 1st Place** | 7 Regional Languages · 15+ AI Workflows
+AgriSence is an agricultural AI platform designed to empower rural farmers with real-time agronomic insights. Winning first place at the Inferentia 2.0 Hackathon, the platform utilizes computer vision for crop disease detection and provides voice-assisted guidelines in seven regional Indian languages. It merges satellite imagery with weather analytics to offer predictive farming advice.
 
-- 🌿 Real-time **crop disease detection** with computer vision
-- 🛰️ Satellite data integration for weather-based advisory
-- 🗣️ **7 regional language** voice assistance for farmers
-- ☁️ Deployed on **GCP Serverless** for scalable rural access
-- **Stack:** `Next.js 16` · `Gemini 2.0 Flash` · `Firebase` · `Genkit` · `GCP`
+- 🌿 **Crop Disease Vision**: Computer vision classification models for crop health and disease identification.
+- 🗣️ **Multilingual Voice Bot**: Voice-to-text queries in **7 regional Indian languages** powered by Gemini 2.0 Flash.
+- 🛰️ **Satellite NDVI Analytics**: Processes satellite data to assess crop growth indicators and soil moisture.
+- ☁️ **GCP Serverless Architecture**: Deployed on Google Cloud serverless platforms for auto-scaling rural access.
+- **Stack**: `Next.js 16` · `Gemini 2.0 Flash` · `Firebase` · `Genkit` · `GCP`
 
 ---
 
+### 🎬 OmniSence — Multimodal Creative AI Engine
 <div align="center">
 
-### 🎬 OmniSence — Multimodal Creative AI Engine
 [![OmniSence GitHub](https://img.shields.io/badge/GitHub-OmniSence-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/Omnisence)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-omnisence.run-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omnisence-518586257861.us-central1.run.app/)
 [![Finalist](https://img.shields.io/badge/Gemini_Live_Agent-Finalist-a855f7?style=for-the-badge)](https://omnisence-518586257861.us-central1.run.app/)
 
 </div>
 
-> **Gemini Live Agent Finalist** — Text → Audio + Video storytelling engine
+OmniSence is a multimodal creative AI story engine that streamlines media generation. It processes textual prompts to automatically construct narrated video stories by chaining LLMs with Imagen and text-to-speech services in a low-latency streaming pipeline. The system handles image generation, narration synthesis, and video stitching asynchronously on Google Cloud.
 
-- 🎥 Real-time **multimodal narrative generation** (text → audio → video)
-- 🖼️ Integrates **LLMs + Imagen + Cloud TTS** in a streaming pipeline
-- ⚡ Deployed on **Cloud Run** with async media generation
-- **Stack:** `FastAPI` · `React` · `Gemini 2.0` · `Cloud Run` · `Imagen`
+- 🎥 **Streaming Generation**: Intercepts narrative text flow to render matching scenes asynchronously.
+- 🖼️ **Creative Synthesis**: Integrates **Imagen 4** and **Cloud Text-to-Speech** for instant storytelling.
+- ⚡ **Asynchronous Backends**: Powered by FastAPI and containerized using Docker on Google Cloud Run.
+- **Stack**: `FastAPI` · `React` · `Gemini 2.0` · `Cloud Run` · `Imagen`
 
 ---
 
+### 🏥 HealthMesh v2.0 — Clinical AI Platform
 <div align="center">
 
-### 🏥 HealthMesh v2.0 — Clinical AI Platform
 [![Live Demo](https://img.shields.io/badge/Live_Demo-healthmesh.azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://healthmesh.azurewebsites.net)
 [![Imagine Cup](https://img.shields.io/badge/Microsoft_Imagine_Cup-Participant-0078d4?style=for-the-badge&logo=microsoft&logoColor=white)](https://healthmesh.azurewebsites.net)
 
 </div>
 
-> **Microsoft Imagine Cup** — HIPAA-ready, FHIR R4 compliant clinical AI
+HealthMesh is a clinical orchestration platform designed to streamline doctor-patient workflows. Deployed as a FHIR R4-compliant, HIPAA-ready solution, the system utilizes specialized AI agents to check medication safety and bridge clinical prescriptions with local supply-chain services. It protects sensitive medical data inside secure enclaves.
 
-- 🏥 **6 specialized healthcare agents** for triage, diagnostics, medication safety
-- 💊 Prescription bridge API → hyperlocal medicine delivery integration
-- 🔐 HIPAA-ready architecture with secure data enclave design
-- **Stack:** `Azure OpenAI` · `FHIR R4` · `FastAPI` · `Firebase`
+- 🏥 **Multi-Agent Diagnostics**: Employs **6 specialized AI agents** for triage, medication interactions, and safety.
+- 💊 **Prescription Routing**: Integrates a bridge API mapping electronic health records to medicine fulfillment.
+- 🔐 **HIPAA-Compliant Design**: Adheres to medical data protection regulations through secure Firestore rules.
+- **Stack**: `Azure OpenAI` · `FHIR R4` · `FastAPI` · `Firebase`
 
 ---
 
+### 🤖 TaskForze — Multi-Agent Productivity System
 <div align="center">
 
-### 🤖 TaskForze — Multi-Agent Productivity System
 [![Live Demo](https://img.shields.io/badge/Live_Demo-taskforze.run-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taskforze-7k4ykvztvq-uc.a.run.app/)
 [![Google APAC](https://img.shields.io/badge/Google_APAC_Hackathon-Participant-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://taskforze-7k4ykvztvq-uc.a.run.app/)
 
 </div>
 
-> **Google APAC Hackathon** — 5 specialized AI sub-agents with WhatsApp escalation
+TaskForze is an agentic productivity system that automates task orchestration and team coordination. It leverages a supervisor node to coordinate five specialized sub-agents and uses automated SMS, WhatsApp, and interactive voice call triggers for deadline escalations. It enables team leaders to trace workflows using a graphical UI.
 
-- 🤖 **5 specialized AI agents** coordinating workflow management
-- 📱 Automated **WhatsApp + AI voice call** escalation for missed deadlines
-- 🗄️ Vector retrieval with **AlloyDB** for intelligent task context
-- **Stack:** `Google ADK` · `FastAPI` · `Cloud Run` · `AlloyDB`
+- 🤖 **Orchestrated Agents**: Coordinates **5 autonomous AI agents** across task planning, testing, and dev.
+- 📱 **Voice & WhatsApp Alerts**: Integrates Twilio and Vapi.ai for real-time voice call escalations.
+- 🗄️ **High-speed Embeddings**: Uses **AlloyDB + ScaNN Vector Search** for semantic task matching.
+- **Stack**: `Google ADK` · `FastAPI` · `Cloud Run` · `AlloyDB`
 
 ---
 
+### 🛡️ CyberShield AI — SME Security Suite
 <div align="center">
 
-### 🛡️ CyberShield AI — SME Security Suite
 [![Live Demo](https://img.shields.io/badge/Live_Demo-cybershield.vercel-64748b?style=for-the-badge&logo=vercel&logoColor=white)](https://cybershield-inky.vercel.app/)
 [![AMD Slingshot](https://img.shields.io/badge/AMD_Slingshot_Hackathon-Participant-ED1C24?style=for-the-badge)](https://cybershield-inky.vercel.app/)
 
 </div>
 
-> **AMD Slingshot Hackathon** — 5-layer security suite scoring 78/100 + offline C-based mesh
+CyberShield is a comprehensive security suite developed for SMEs and defense intelligence. Developed for the AMD Slingshot Hackathon, the system features a multi-layered vulnerability scanner alongside a low-level C-based offline mesh communication network for emergency triage. It scores business IT networks on security compliance parameters.
 
-- 🔐 **5-layer cybersecurity suite** scoring 78/100 for SMEs
-- 📡 Offline **C-based mesh communication** network for emergency triage
-- 🧠 AI-powered threat detection and vulnerability analysis
-- **Stack:** `Python` · `C` · `Gemini` · `FastAPI`
+- 🔐 **5-Layer SME Protection**: Audits network configs, cloud permissions, and endpoint security.
+- 📡 **Offline Mesh Network**: A low-level **C-based mesh topology** for off-grid encryption.
+- 🧠 **Threat Analysis**: Employs LLMs to categorize vulnerabilities and recommend remediation actions.
+- **Stack**: `Python` · `C` · `Gemini` · `FastAPI`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-<div align="center">
+### 🧠 Artificial Intelligence & Machine Learning (AI / ML)
+- **Programming Languages**: **Python** (PyTorch, TensorFlow, Scikit-Learn) for building, training, and testing model architectures.
+- **Generative AI Models**: **Gemini 1.5 Pro**, **Gemini 2.0 Flash**, **Gemini 2.5 Flash**, **Llama**, and **Gemma** for advanced text, audio, and video synthesis.
+- **Agentic AI & Orchestration**: **Google ADK**, **Google Genkit 1.27**, and **LangChain** for RAG, multi-agent frameworks, tool usage, and failover topologies.
+- **Edge AI & Local Inference**: Quantized **GGUF** models running locally using **Llama.cpp** for offline-first clinical reasoning.
 
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Llama.cpp](https://img.shields.io/badge/Llama.cpp-gray?style=for-the-badge)
-![Genkit](https://img.shields.io/badge/Firebase_Genkit-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/Llama.cpp-gray?style=for-the-badge" alt="Llama.cpp" />
+  <img src="https://img.shields.io/badge/Firebase_Genkit-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Genkit" />
+</p>
 
-### ⚡ Full-Stack Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+### ⚡ Full-Stack Software Engineering
+- **Frontend Architectures**: **Next.js 15/16 (App Router)**, **React 18/19**, **React Native** for cross-platform Android & iOS apps, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
+- **Backend Infrastructure**: **FastAPI**, **Node.js**, **Django**, and **REST APIs** for building robust endpoints and event-driven architectures.
+- **Systems & Languages**: Low-level **C** development, **RISC-V Assembly**, and automation using **Shell Scripting**.
 
-### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AlloyDB](https://img.shields.io/badge/AlloyDB-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+### ☁️ Cloud Computing, DevOps & Infrastructure
+- **Platforms**: **Google Cloud Platform (GCP)**, **Microsoft Azure**, and **Amazon Web Services (AWS)**.
+- **Serverless & Hosting**: **Firebase App Hosting**, **Cloud Run** for containerized apps, **Cloud Functions**, and **Vercel** deployments.
+- **Containerization & CI/CD**: **Docker** configurations and automated delivery pipelines.
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+### 🗄️ Database Management & Vector Search
+- **Relational Databases**: **PostgreSQL** and general **SQL** databases.
+- **Document & Vector Stores**: **Firestore** collections, **AlloyDB** for high-performance transactions, and **ScaNN Vector Search** for semantic indexing.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
+  <img src="https://img.shields.io/badge/AlloyDB-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AlloyDB" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
 ---
 

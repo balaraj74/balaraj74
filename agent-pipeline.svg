@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="100%" height="100%">
+  <style>
+    .bg { fill: #0d1117; rx: 16px; }
+    .border { stroke: #30363d; stroke-width: 1.5; fill: none; }
+    .grid-line { stroke: #21262d; stroke-width: 1; stroke-dasharray: 4 12; }
+    
+    .node-bg { fill: #161b22; stroke: #30363d; stroke-width: 1.5; rx: 8px; }
+    .node-active { stroke: #00f0ff; filter: drop-shadow(0 0 6px rgba(0, 240, 255, 0.4)); }
+    .node-green { stroke: #00ff66; filter: drop-shadow(0 0 6px rgba(0, 255, 102, 0.4)); }
+    .node-purple { stroke: #bd00ff; filter: drop-shadow(0 0 6px rgba(189, 0, 255, 0.4)); }
+    .node-yellow { stroke: #ffd600; filter: drop-shadow(0 0 6px rgba(255, 214, 0, 0.4)); }
+    
+    .text-title { fill: #ffffff; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 800; font-size: 13px; letter-spacing: 1.5px; }
+    .text-desc { fill: #8b949e; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 11px; }
+    .text-bold { fill: #58a6ff; font-weight: bold; }
+    
+    .conn-line { fill: none; stroke: #30363d; stroke-width: 2; }
+    .conn-flow-cyan { fill: none; stroke: #00f0ff; stroke-width: 2; stroke-dasharray: 8 20; animation: flow 4s linear infinite; }
+    .conn-flow-green { fill: none; stroke: #00ff66; stroke-width: 2; stroke-dasharray: 8 20; animation: flow-reverse 5s linear infinite; }
+    .conn-flow-purple { fill: none; stroke: #bd00ff; stroke-width: 2; stroke-dasharray: 8 20; animation: flow 4.5s linear infinite; }
+    
+    .pulse-glow { animation: pulse 2s ease-in-out infinite; }
+    .pulse-glow-slow { animation: pulse 3s ease-in-out infinite; }
+    
+    @keyframes flow {
+      to {
+        stroke-dashoffset: -56;
+      }
+    }
+    @keyframes flow-reverse {
+      to {
+        stroke-dashoffset: 56;
+      }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.6; filter: drop-shadow(0 0 2px currentColor); }
+      50% { opacity: 1; filter: drop-shadow(0 0 8px currentColor); }
+    }
+  </style>
+
+  <!-- Background Panel -->
+  <rect class="bg" width="880" height="280" />
+  <rect class="border" x="0.75" y="0.75" width="878.5" height="278.5" rx="16" />
+
+  <!-- Decorative Grid Lines -->
+  <line class="grid-line" x1="40" y1="0" x2="40" y2="280" />
+  <line class="grid-line" x1="840" y1="0" x2="840" y2="280" />
+  <line class="grid-line" x1="0" y1="60" x2="880" y2="60" />
+  <line class="grid-line" x1="0" y1="220" x2="880" y2="220" />
+
+  <!-- Flow Paths / Connection Lines -->
+  <!-- User to Supervisor -->
+  <path class="conn-line" d="M 140 140 L 220 140" />
+  <path class="conn-flow-cyan" d="M 140 140 L 220 140" />
+  
+  <!-- Supervisor to Agents -->
+  <path class="conn-line" d="M 320 140 C 360 140, 360 80, 420 80" />
+  <path class="conn-flow-cyan" d="M 320 140 C 360 140, 360 80, 420 80" />
+  
+  <path class="conn-line" d="M 320 140 L 420 140" />
+  <path class="conn-flow-green" d="M 320 140 L 420 140" />
+  
+  <path class="conn-line" d="M 320 140 C 360 140, 360 200, 420 200" />
+  <path class="conn-flow-purple" d="M 320 140 C 360 140, 360 200, 420 200" />
+
+  <!-- Agents to DB -->
+  <path class="conn-line" d="M 540 80 C 580 80, 580 140, 620 140" />
+  <path class="conn-line" d="M 540 140 L 620 140" />
+  <path class="conn-line" d="M 540 200 C 580 200, 580 140, 620 140" />
+
+  <!-- DB to Output -->
+  <path class="conn-line" d="M 720 140 L 760 140" />
+  <path class="conn-flow-cyan" d="M 720 140 L 760 140" />
+
+  <!-- DB to Vector DB Node -->
+  <path class="conn-line" d="M 670 180 L 670 215" />
+  <path class="conn-flow-green" d="M 670 215 L 670 180" />
+
+  <!-- Header Text -->
+  <text class="text-title text-bold" x="25" y="32">AGENTIC AI ORCHESTRATION PIPELINE</text>
+  <text class="text-desc" x="650" y="32">System Status: <tspan fill="#00ff66" font-weight="bold">ACTIVE [60 FPS]</tspan></text>
+
+  <!-- 1. Node: User Input -->
+  <g class="pulse-glow-slow" style="color: #00f0ff;">
+    <rect class="node-bg node-active" x="30" y="105" width="110" height="70" />
+    <text class="text-title" x="42" y="132" fill="#00f0ff">USER PROMPT</text>
+    <text class="text-desc" x="42" y="150">Voice / Text</text>
+    <text class="text-desc" x="42" y="162">Multi-lingual</text>
+  </g>
+
+  <!-- 2. Node: Supervisor / Triage Agent -->
+  <g class="pulse-glow" style="color: #ffd600;">
+    <rect class="node-bg node-yellow" x="210" y="105" width="110" height="70" />
+    <text class="text-title" x="222" y="132" fill="#ffd600">SUPERVISOR</text>
+    <text class="text-desc" x="222" y="150">LLM Triage</text>
+    <text class="text-desc" x="222" y="162">Intent Router</text>
+  </g>
+
+  <!-- 3. Specialized Agent Nodes -->
+  <!-- 3a. Clinical AI Agent -->
+  <g class="pulse-glow-slow" style="color: #00f0ff;">
+    <rect class="node-bg node-active" x="420" y="45" width="120" height="70" rx="8" />
+    <text class="text-title" x="432" y="72" fill="#00f0ff">🩺 CLINICAL AI</text>
+    <text class="text-desc" x="432" y="90">HealthMesh</text>
+    <text class="text-desc" x="432" y="102">FHIR R4 / HIPAA</text>
+  </g>
+
+  <!-- 3b. Smart Farming Agent -->
+  <g class="pulse-glow-slow" style="color: #00ff66;">
+    <rect class="node-bg node-green" x="420" y="120" width="120" height="70" rx="8" />
+    <text class="text-title" x="432" y="147" fill="#00ff66">🌾 SMART FARM</text>
+    <text class="text-desc" x="432" y="165">AgriSence</text>
+    <text class="text-desc" x="432" y="177">Plant Disease CV</text>
+  </g>
+
+  <!-- 3c. Career IQ Agent -->
+  <g class="pulse-glow-slow" style="color: #bd00ff;">
+    <rect class="node-bg node-purple" x="420" y="195" width="120" height="70" rx="8" />
+    <text class="text-title" x="432" y="222" fill="#bd00ff">🎯 CAREER IQ</text>
+    <text class="text-desc" x="432" y="240">CareerLens</text>
+    <text class="text-desc" x="432" y="252">ATS / Skill Map</text>
+  </g>
+
+  <!-- 4. Node: Context Assembly & Synthesis -->
+  <g class="pulse-glow" style="color: #00f0ff;">
+    <rect class="node-bg node-active" x="620" y="105" width="110" height="70" />
+    <text class="text-title" x="632" y="132" fill="#00f0ff">SYNTHESIS</text>
+    <text class="text-desc" x="632" y="150">RAG Prompt</text>
+    <text class="text-desc" x="632" y="162">Assembly</text>
+  </g>
+
+  <!-- 5. Node: Vector DB -->
+  <g class="pulse-glow-slow" style="color: #00ff66;">
+    <rect class="node-bg node-green" x="620" y="215" width="110" height="40" />
+    <text class="text-title" x="632" y="238" fill="#00ff66">⚡ VECTOR DB</text>
+  </g>
+
+  <!-- 6. Node: Output -->
+  <g class="pulse-glow-slow" style="color: #00ff66;">
+    <rect class="node-bg node-green" x="760" y="105" width="95" height="70" />
+    <text class="text-title" x="772" y="132" fill="#00ff66">RESPONSE</text>
+    <text class="text-desc" x="772" y="150">Action / Text</text>
+    <text class="text-desc" x="772" y="162">Verified</text>
+  </g>
+</svg>
