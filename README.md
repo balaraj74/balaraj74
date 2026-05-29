@@ -1,48 +1,66 @@
 <div align="center">
 
-<!-- Dynamic banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0c4a6e,100:0d1117&height=200&section=header&text=Balaraj%20R&fontSize=60&fontColor=38bdf8&animation=twinkling&fontAlignY=45&desc=AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Cloud%20Builder&descSize=18&descAlignY=70&descColor=94a3b8" width="100%" />
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0c4a6e,100:0d1117&height=220&section=header&text=Balaraj%20R&fontSize=72&fontColor=38bdf8&animation=twinkling&fontAlignY=45&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Intelligent%20Systems%20Builder&descSize=18&descAlignY=70&descColor=94a3b8" width="100%" alt="Balaraj R — AI/ML Engineer | Full Stack Developer | Intelligent Systems Builder" />
 
 <!-- Animated typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;height=45&amp;lines=%F0%9F%A4%96%20Building%20Production-Ready%20AI%20Systems%3B%F0%9F%8F%86%202%C3%97%20National%20Hackathon%20Winner%3B%E2%98%81%EF%B8%8F%20Google%20Cloud%20%7C%20Azure%20%7C%20Firebase%20Engineer%3B%F0%9F%A7%A0%20Agentic%20AI%20%7C%20RAG%20%7C%20Multi-Agent%20Orchestration%3B%F0%9F%8C%BE%20AgriTech%20AI%20%7C%20HealthTech%20AI%20%7C%20Career%20Intelligence%3B%E2%9A%A1%20PES%20University%20%E2%80%94%20CSE%20%28AI%20%26%20ML%29%202024%E2%80%932028" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=700&amp;height=45&amp;lines=%F0%9F%A4%96%20Building%20Production-Ready%20AI%20Systems%3B%F0%9F%8F%86%202%C3%97%20National%20Hackathon%20Winner%3B%F0%9F%A7%A0%20Edge%20AI%20%7C%20Agentic%20AI%20%7C%20Multi-Agent%20Orchestration%3B%F0%9F%8C%BE%20AgriTech%20AI%20%7C%20HealthTech%20AI%20%7C%20Career%20Intelligence%3B%E2%98%81%EF%B8%8F%20Google%20Cloud%20%7C%20Azure%20%7C%20Firebase%20Engineer%3B%E2%9A%A1%20PES%20University%20%E2%80%94%20CSE%20%28AI%20%26%20ML%29%202024%E2%80%932028" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- Impact at-a-glance -->
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/10+-Hackathons-1e3a5f?style=for-the-badge&logo=trophy&logoColor=white" /><br/>
+<b>Competed</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/2×-National_Winner-7c3aed?style=for-the-badge&logo=medal&logoColor=white" /><br/>
+<b>Top Honours</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/₹2.75L+-Prize_Won-065f46?style=for-the-badge&logoColor=white" /><br/>
+<b>Prize Money</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/7-Live_AI_Products-0c4a6e?style=for-the-badge&logoColor=white" /><br/>
+<b>Shipped</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/35+-Certifications-0e7490?style=for-the-badge&logo=certificate&logoColor=white" /><br/>
+<b>Credentials</b>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- Profile badges -->
+<!-- Social Links — Single Row -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=balaraj74&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/balaraj74?style=for-the-badge&color=0e7490&labelColor=0d1117&label=FOLLOWERS" alt="followers" />
-  <img src="https://img.shields.io/badge/PES%20University-CSE%20AI%20%26%20ML-38bdf8?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="university" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" />
+  <a href="https://balaraj.vercel.app"><img src="https://img.shields.io/badge/🚀_Portfolio-balaraj.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:balarajr483@gmail.com"><img src="https://img.shields.io/badge/📧_Email-balarajr483@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/balaraj-r-209a67330"><img src="https://img.shields.io/badge/LinkedIn-Balaraj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+<p>
+  <a href="https://www.kaggle.com/balarajr"><img src="https://img.shields.io/badge/Kaggle-balarajr-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://huggingface.co/balarajr"><img src="https://img.shields.io/badge/🤗_Hugging_Face-balarajr-FFD21E?style=for-the-badge" alt="Hugging Face" /></a>
+  <a href="https://g.dev/balarajr"><img src="https://img.shields.io/badge/Google_Dev-g.dev/balarajr-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev" /></a>
+  <a href="https://x.com/Balaraj__r"><img src="https://img.shields.io/badge/X_(Twitter)-@Balaraj__r-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b"><img src="https://img.shields.io/badge/Google_Skills-Verified-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills" /></a>
+</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=balaraj74&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/balaraj74?style=for-the-badge&color=0e7490&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/badge/PES%20University-CSE%20AI%20%26%20ML%202024--2028-38bdf8?style=for-the-badge&logoColor=white" alt="PES University" />
 </p>
 
-<!-- Custom Interactive/Animated SVG Pipeline Flow Visualizer -->
+<!-- Agent Pipeline SVG -->
 <p align="center">
-  <img src="agent-pipeline.svg" width="100%" alt="Balaraj R's Agentic AI Multi-Agent Orchestration Flow Pipeline" />
+  <img src="agent-pipeline.svg" width="100%" alt="Balaraj R — Agentic AI Multi-Agent Orchestration Pipeline Visualizer" />
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Find Me Online
-
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio_Website-balaraj.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://balaraj.vercel.app)
-[![Email](https://img.shields.io/badge/📧_Email-balarajr483@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balarajr483@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaraj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaraj-r-209a67330)
-[![GitHub](https://img.shields.io/badge/GitHub-balaraj74-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-balarajr-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/balarajr)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-balarajr-FFD21E?style=for-the-badge)](https://huggingface.co/balarajr)
-[![Google Dev](https://img.shields.io/badge/Google_Dev-g.dev/balarajr-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/balarajr)
-[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-@Balaraj__r-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Balaraj__r)
-[![Instagram](https://img.shields.io/badge/Instagram-balaraj.__r-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/balaraj.__r/)
-[![Google Skills](https://img.shields.io/badge/Google_Skills_Profile-Verified-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_8431206594-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918431206594)
 
 </div>
 
@@ -52,69 +70,57 @@
 
 ```python
 class BalarajR:
-    name       = "Balaraj R (Balu)"
+    role       = "AI/ML Engineer | Full Stack Developer | Intelligent Systems Builder"
     location   = "Bengaluru, Karnataka, India 🇮🇳"
-    education  = "PES University — CSE (AI & ML), 2024–2028"
-    email      = "balarajr483@gmail.com"
-    portfolio  = "https://balaraj.vercel.app"
+    education  = "PES University — B.Tech CSE (AI & ML), 2024–2028"
+    contact    = "balarajr483@gmail.com | balaraj.vercel.app"
 
-    focus_areas = [
+    domains = [
         "Agentic AI & Multi-Agent Orchestration",
-        "Healthcare AI (HIPAA-aware systems)",
-        "Agricultural AI & Smart Farming",
-        "Career Intelligence & NLP",
-        "Cloud-Native Full-Stack Development",
+        "Healthcare AI — HIPAA-aware, FHIR R4-compliant systems",
+        "Agricultural AI & Smart Farming (rural India scale)",
+        "Edge AI — On-device inference with quantized LLMs",
+        "Cloud-Native Full Stack (GCP · Azure · Firebase)",
     ]
 
-    current_projects = {
-        "VaidyaOS"    : "Offline-first Edge AI healthcare OS (React Native + Llama.cpp)",
-        "CareerLens"  : "AI career intelligence platform — Google Gen AI Exchange WINNER 🏆",
-        "AgriSence"   : "Smart farming AI — INFERENTIA 2.0 State Winner 🥇",
-        "HealthMesh"  : "HIPAA-ready clinical AI — Microsoft Imagine Cup 🏥",
+    building = {
+        "VaidyaOS"   : "Offline-first Edge AI healthcare OS — runs LLMs on rural Android devices",
+        "CareerLens" : "AI career intelligence — Google Gen AI Exchange National Winner 🏆",
+        "AgriSence"  : "AI smart farming platform — Inferentia 2.0 State Winner 🥇",
+        "HealthMesh" : "HIPAA-ready multi-agent clinical AI — Microsoft Imagine Cup",
     }
 
-    mission = "Build ethical, explainable AI that supports humans in critical decisions."
-    values  = ["Ethics", "Explainability", "Privacy", "Real-World Impact"]
+    mission = "Build ethical, explainable AI that empowers humans in critical decisions."
+    values  = ["Offline-first", "Privacy by design", "Real-world impact", "Ship fast"]
 ```
 
 ---
 
-## 🏆 Achievements at a Glance
+## ⚡ Current Focus
+
+> What I'm actively shipping right now — updated regularly.
+
+| 🔨 Project | 📍 Status | 🎯 Next Milestone |
+|---|---|---|
+| **VaidyaOS** — Edge AI Healthcare OS | 🟢 Active | Multilingual symptom parser v2, Gemma 3 GGUF upgrade |
+| **AgriSence** — AI Smart Farming | 🟢 Active | NDVI satellite feed integration, 7-language voice expansion |
+| **HealthMesh v2** — Clinical AI | 🟡 Iterating | FHIR R4 audit log compliance, 2 new agent specializations |
+| **OSS Contributions** | 🔵 Starting | Genkit docs, LangChain JS examples, Firebase SDK |
+| **Edge AI Research** | 🔵 Exploring | Quantization benchmarks: Gemma 2B vs Phi-3 Mini on Android |
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
-| 🥇 Award | 🏛️ By | 📅 Year |
+| 🥇 Award | 🏛️ Organiser | 📅 |
 |---|---|---|
 | 🏆 **National Winner** — Google Gen AI Exchange Hackathon | Google Cloud × Hack2skill | 2025 |
-| 🥇 **1st Place** — Inferentia 2.0 State-Level Hackathon | PES University · AURA · AI&ML Dept | Sep 2025 |
+| 🥇 **1st Place** — Inferentia 2.0 State Hackathon | PES University · AURA · AI&ML Dept | Sep 2025 |
 | 🚀 **Round 1 Finalist** — Meta PyTorch OpenEnv Hackathon | Meta × OpenEnv × Scaler | Apr 2026 |
-| 🌟 **Google APAC Finalist** — Gen AI Academy APAC 2026 | Google Cloud × Hack2skill | 2026 |
+| 🌟 **Google APAC Finalist** — Gen AI Academy APAC | Google Cloud × Hack2skill | 2026 |
 | 🛡️ **AMD Slingshot Hackathon** — CyberShield AI | AMD | 2025 |
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/10+-Hackathons-1e3a5f?style=for-the-badge&logo=trophy&logoColor=white" /><br/>
-<b>Competitions</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/₹2.75L+-Prize_Money-065f46?style=for-the-badge&logo=cash&logoColor=white" /><br/>
-<b>Prize Won</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2×-National_Winner-7c3aed?style=for-the-badge&logo=medal&logoColor=white" /><br/>
-<b>Top Honours</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/35+-Certifications-0e7490?style=for-the-badge&logo=certificate&logoColor=white" /><br/>
-<b>Credentials</b>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -127,19 +133,26 @@ class BalarajR:
 
 [![VaidyaOS GitHub](https://img.shields.io/badge/GitHub-VaidyaOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/VaidyaOS)
 [![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://roaring-valkyrie-042963.netlify.app/VaidyaOS.apk)
+![Stack](https://img.shields.io/badge/Stack-React_Native·Gemma·Llama.cpp·Firebase-0c4a6e?style=flat-square)
 
 <br/>
-<img src="assets/vaidyaos_showcase.png" width="100%" alt="VaidyaOS Edge AI Healthcare Operating System Showcase" />
+<img src="assets/vaidyaos_showcase.png" width="100%" alt="VaidyaOS — Edge AI Healthcare OS running offline clinical AI on mobile devices" />
 
 </div>
 
-VaidyaOS is an edge-based, offline-first artificial intelligence operating system designed for healthcare accessibility. Engineered to operate under zero-connectivity constraints, it enables clinical triage and medical support directly on mobile devices by running quantized Large Language Models (LLMs) locally. It provides rural patients and medical professionals with offline clinical reasoning, multilingual medical terminology translation, and local health record caching.
+**Problem**: 65% of India's rural population lacks access to qualified doctors. Internet connectivity is intermittent. Clinical AI must work *without* the cloud.
 
-- 🧠 **On-Device AI Inference**: Uses **Llama.cpp + Gemma GGUF** for fully offline, private medical reasoning.
-- 📱 **Cross-Platform Mobile App**: Built with **React Native** to ensure seamless deployment on Android and iOS devices.
-- 🔥 **Hybrid Sync Backend**: Deploys a **Firebase** database for online synchronization and edge-first caching.
-- 🏥 **Multilingual Support**: Translates symptoms and diagnosis across regional Indian languages.
-- **Stack**: `React Native` · `Gemma` · `Llama.cpp` · `Firebase` · `Python`
+VaidyaOS is an offline-first Edge AI operating system for healthcare accessibility. It runs quantized LLMs directly on Android devices — enabling clinical triage, symptom analysis, and multilingual medical guidance with zero internet dependency.
+
+| Feature | Implementation |
+|---|---|
+| 🧠 On-Device AI Inference | Llama.cpp + Gemma 2B GGUF (Q4_K_M quantization) |
+| 📱 Cross-Platform Mobile | React Native — Android + iOS from single codebase |
+| 🔥 Hybrid Sync | Firebase for online sync, AsyncStorage for offline caching |
+| 🗣️ Multilingual | Kannada, Hindi, Tamil, Telugu, Malayalam clinical translation |
+| 🔒 Privacy-First | All inference runs locally — no patient data leaves the device |
+
+**Stack**: `React Native` · `Gemma` · `Llama.cpp` · `Firebase` · `Python` · `FastAPI`
 
 ---
 
@@ -148,20 +161,26 @@ VaidyaOS is an edge-based, offline-first artificial intelligence operating syste
 
 [![CareerLens GitHub](https://img.shields.io/badge/GitHub-CareerLens-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/careerlens)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-careerlens.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://careerlens--careerlens-1.us-central1.hosted.app)
-[![Winner Badge](https://img.shields.io/badge/🏆_Google_Gen_AI_Exchange-NATIONAL_WINNER-FFD700?style=for-the-badge)](https://careerlens--careerlens-1.us-central1.hosted.app)
+[![Winner](https://img.shields.io/badge/🏆_Google_Gen_AI_Exchange-NATIONAL_WINNER-FFD700?style=for-the-badge)](https://careerlens--careerlens-1.us-central1.hosted.app)
+![Stack](https://img.shields.io/badge/Stack-Next.js·TypeScript·Gemini·Firebase-0c4a6e?style=flat-square)
 
 <br/>
-<img src="assets/careerlens_showcase.png" width="100%" alt="CareerLens AI Career Intelligence Platform Showcase" />
+<img src="assets/careerlens_showcase.png" width="100%" alt="CareerLens — AI Career Intelligence Platform, Google Gen AI Exchange National Winner" />
 
 </div>
 
-CareerLens is a highly scalable, event-driven AI platform designed for career intelligence and resume optimization. Selected as the National Winner of the Google Gen AI Exchange, the system automates resume analysis, evaluates technical skill gaps, and dynamically compiles interactive learning roadmaps. It integrates with real-time job market APIs and educational platforms to deliver personalized upskilling pathways.
+**Problem**: Job seekers apply blindly — no feedback on why they're rejected by ATS systems or how to close their skill gaps fast.
 
-- 🎯 **ATS Optimization**: Direct resume parsing and **ATS-aware feedback** powered by Gemini 1.5 Pro.
-- ⚙️ **Event-Driven Services**: Scaled across **32 microservices** utilizing background task queues.
-- 🗺️ **Interactive Roadmap**: Renders customized learning graphs in Next.js using **React Flow**.
-- 📊 **Real-time Curation**: Aggregates courses from Coursera and NPTEL based on market demand.
-- **Stack**: `Next.js 15` · `TypeScript` · `Gemini 1.5 Pro` · `Cloud Functions` · `Firebase`
+CareerLens is an event-driven AI career platform that automates resume parsing, identifies ATS failures, and generates personalized upskilling roadmaps aligned to live job market demand. Selected as the **National Winner** of the Google Gen AI Exchange Hackathon.
+
+| Feature | Implementation |
+|---|---|
+| 🎯 ATS Optimization | Gemini 1.5 Pro resume analysis with structured scoring |
+| ⚙️ Event Architecture | 32 microservices with background Cloud Function queues |
+| 🗺️ Interactive Roadmaps | React Flow graph with course nodes (Coursera + NPTEL) |
+| 📊 Market Intelligence | Real-time job API aggregation for skill gap scoring |
+
+**Stack**: `Next.js 15` · `TypeScript` · `Gemini 1.5 Pro` · `Cloud Functions` · `Firebase` · `React Flow`
 
 ---
 
@@ -170,20 +189,26 @@ CareerLens is a highly scalable, event-driven AI platform designed for career in
 
 [![AgriSence GitHub](https://img.shields.io/badge/GitHub-AgriSence-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/AgriSence)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-agrisence.app-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
-[![Winner Badge](https://img.shields.io/badge/🥇_INFERENTIA_2.0-STATE_WINNER-gold?style=for-the-badge)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
+[![Winner](https://img.shields.io/badge/🥇_INFERENTIA_2.0-STATE_WINNER-gold?style=for-the-badge)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
+![Stack](https://img.shields.io/badge/Stack-Next.js·Gemini·Firebase·GCP-0c4a6e?style=flat-square)
 
 <br/>
-<img src="assets/agrisence_showcase.png" width="100%" alt="AgriSence AI Smart Farming Platform Showcase" />
+<img src="assets/agrisence_showcase.png" width="100%" alt="AgriSence — AI Smart Farming Platform, Inferentia 2.0 State Winner" />
 
 </div>
 
-AgriSence is an agricultural AI platform designed to empower rural farmers with real-time agronomic insights. Winning first place at the Inferentia 2.0 Hackathon, the platform utilizes computer vision for crop disease detection and provides voice-assisted guidelines in seven regional Indian languages. It merges satellite imagery with weather analytics to offer predictive farming advice.
+**Problem**: Indian farmers lose 20–40% of crops annually to preventable diseases and poor advisory access. Agronomic advice is expensive, English-only, and internet-dependent.
 
-- 🌿 **Crop Disease Vision**: Computer vision classification models for crop health and disease identification.
-- 🗣️ **Multilingual Voice Bot**: Voice-to-text queries in **7 regional Indian languages** powered by Gemini 2.0 Flash.
-- 🛰️ **Satellite NDVI Analytics**: Processes satellite data to assess crop growth indicators and soil moisture.
-- ☁️ **GCP Serverless Architecture**: Deployed on Google Cloud serverless platforms for auto-scaling rural access.
-- **Stack**: `Next.js 16` · `Gemini 2.0 Flash` · `Firebase` · `Genkit` · `GCP`
+AgriSence is an AI precision farming platform that detects crop diseases via computer vision, delivers voice-assisted agronomic guidance in 7 regional Indian languages, and merges satellite NDVI data with weather models for predictive crop management.
+
+| Feature | Implementation |
+|---|---|
+| 🌿 Crop Disease Vision | CNN classification — trained on PlantVillage dataset |
+| 🗣️ Multilingual Voice Bot | Gemini 2.0 Flash + Google TTS in 7 Indian languages |
+| 🛰️ Satellite NDVI | Sentinel-2 data processing for crop growth analytics |
+| ☁️ Auto-Scale | GCP Cloud Run serverless — scales to zero between farm queries |
+
+**Stack**: `Next.js 16` · `Gemini 2.0 Flash` · `Firebase` · `Genkit` · `GCP` · `Python`
 
 ---
 
@@ -193,18 +218,19 @@ AgriSence is an agricultural AI platform designed to empower rural farmers with 
 [![OmniSence GitHub](https://img.shields.io/badge/GitHub-OmniSence-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/Omnisence)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-omnisence.run-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omnisence-518586257861.us-central1.run.app/)
 [![Finalist](https://img.shields.io/badge/Gemini_Live_Agent-Finalist-a855f7?style=for-the-badge)](https://omnisence-518586257861.us-central1.run.app/)
+![Stack](https://img.shields.io/badge/Stack-FastAPI·React·Gemini·Cloud_Run-0c4a6e?style=flat-square)
 
 <br/>
-<img src="assets/omnisence_showcase.png" width="100%" alt="OmniSence Multimodal Creative AI Engine Showcase" />
+<img src="assets/omnisence_showcase.png" width="100%" alt="OmniSence — Multimodal Creative AI Story Engine" />
 
 </div>
 
-OmniSence is a multimodal creative AI story engine that streamlines media generation. It processes textual prompts to automatically construct narrated video stories by chaining LLMs with Imagen and text-to-speech services in a low-latency streaming pipeline. The system handles image generation, narration synthesis, and video stitching asynchronously on Google Cloud.
+OmniSence is a multimodal creative AI pipeline that transforms text prompts into narrated video stories. It chains LLMs → Imagen 4 → Cloud TTS → video stitching in a low-latency streaming architecture on Google Cloud Run.
 
-- 🎥 **Streaming Generation**: Intercepts narrative text flow to render matching scenes asynchronously.
-- 🖼️ **Creative Synthesis**: Integrates **Imagen 4** and **Cloud Text-to-Speech** for instant storytelling.
-- ⚡ **Asynchronous Backends**: Powered by FastAPI and containerized using Docker on Google Cloud Run.
-- **Stack**: `FastAPI` · `React` · `Gemini 2.0` · `Cloud Run` · `Imagen`
+- 🎥 **Streaming Scene Generation**: Async token-level interception pipelines rendered scenes in parallel
+- 🖼️ **Imagen 4 Integration**: Text-to-image generation for each story beat
+- ⚡ **Containerized**: FastAPI + Docker on Cloud Run — cold start < 1.2s
+- **Stack**: `FastAPI` · `React` · `Gemini 2.0` · `Cloud Run` · `Imagen 4` · `Docker`
 
 ---
 
@@ -213,18 +239,19 @@ OmniSence is a multimodal creative AI story engine that streamlines media genera
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-healthmesh.azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://healthmesh.azurewebsites.net)
 [![Imagine Cup](https://img.shields.io/badge/Microsoft_Imagine_Cup-Participant-0078d4?style=for-the-badge&logo=microsoft&logoColor=white)](https://healthmesh.azurewebsites.net)
+![Stack](https://img.shields.io/badge/Stack-Azure_OpenAI·FHIR_R4·FastAPI·Firebase-0c4a6e?style=flat-square)
 
 <br/>
-<img src="assets/healthmesh_showcase.png" width="100%" alt="HealthMesh v2.0 Clinical AI Platform Showcase" />
+<img src="assets/healthmesh_showcase.png" width="100%" alt="HealthMesh v2.0 — FHIR R4-compliant Clinical AI Platform" />
 
 </div>
 
-HealthMesh is a clinical orchestration platform designed to streamline doctor-patient workflows. Deployed as a FHIR R4-compliant, HIPAA-ready solution, the system utilizes specialized AI agents to check medication safety and bridge clinical prescriptions with local supply-chain services. It protects sensitive medical data inside secure enclaves.
+HealthMesh is a FHIR R4-compliant, HIPAA-ready clinical orchestration platform that coordinates 6 specialized AI agents for patient triage, medication safety checking, and prescription supply-chain routing.
 
-- 🏥 **Multi-Agent Diagnostics**: Employs **6 specialized AI agents** for triage, medication interactions, and safety.
-- 💊 **Prescription Routing**: Integrates a bridge API mapping electronic health records to medicine fulfillment.
-- 🔐 **HIPAA-Compliant Design**: Adheres to medical data protection regulations through secure Firestore rules.
-- **Stack**: `Azure OpenAI` · `FHIR R4` · `FastAPI` · `Firebase`
+- 🏥 **6 Specialized Agents**: Triage · Medication Safety · Interaction Checker · Pharmacy Router · Audit Logger · Patient Notifier
+- 💊 **EHR Bridge API**: Maps FHIR resources to local pharmacy fulfillment networks
+- 🔐 **HIPAA Design**: Secure Firestore rules, Azure Active Directory auth, audit trails
+- **Stack**: `Azure OpenAI` · `FHIR R4` · `FastAPI` · `Firebase` · `Python`
 
 ---
 
@@ -232,19 +259,20 @@ HealthMesh is a clinical orchestration platform designed to streamline doctor-pa
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-taskforze.run-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taskforze-7k4ykvztvq-uc.a.run.app/)
-[![Google APAC](https://img.shields.io/badge/Google_APAC_Hackathon-Participant-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://taskforze-7k4ykvztvq-uc.a.run.app/)
+[![Google APAC](https://img.shields.io/badge/Google_APAC_Finalist-2026-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://taskforze-7k4ykvztvq-uc.a.run.app/)
+![Stack](https://img.shields.io/badge/Stack-Google_ADK·FastAPI·AlloyDB·Cloud_Run-0c4a6e?style=flat-square)
 
 <br/>
-<img src="assets/taskforze_showcase.png" width="100%" alt="TaskForze Multi-Agent Productivity System Showcase" />
+<img src="assets/taskforze_showcase.png" width="100%" alt="TaskForze — Multi-Agent Productivity & Orchestration System" />
 
 </div>
 
-TaskForze is an agentic productivity system that automates task orchestration and team coordination. It leverages a supervisor node to coordinate five specialized sub-agents and uses automated SMS, WhatsApp, and interactive voice call triggers for deadline escalations. It enables team leaders to trace workflows using a graphical UI.
+TaskForze is an agentic productivity platform where a supervisor AI node orchestrates 5 specialized sub-agents — coordinating task planning, automated testing, code reviews, deadline escalations via WhatsApp, and voice call alerts via Vapi.ai.
 
-- 🤖 **Orchestrated Agents**: Coordinates **5 autonomous AI agents** across task planning, testing, and dev.
-- 📱 **Voice & WhatsApp Alerts**: Integrates Twilio and Vapi.ai for real-time voice call escalations.
-- 🗄️ **High-speed Embeddings**: Uses **AlloyDB + ScaNN Vector Search** for semantic task matching.
-- **Stack**: `Google ADK` · `FastAPI` · `Cloud Run` · `AlloyDB`
+- 🤖 **5-Agent Mesh**: Supervisor → Planner · QA · Dev · Escalation · Analytics
+- 📱 **Omnichannel Alerts**: Twilio SMS + WhatsApp + Vapi.ai voice calls for deadline escalation
+- 🗄️ **Semantic Search**: AlloyDB + ScaNN vector index for intelligent task matching
+- **Stack**: `Google ADK` · `FastAPI` · `Cloud Run` · `AlloyDB` · `Twilio` · `Vapi.ai`
 
 ---
 
@@ -253,61 +281,58 @@ TaskForze is an agentic productivity system that automates task orchestration an
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-cybershield.vercel-64748b?style=for-the-badge&logo=vercel&logoColor=white)](https://cybershield-inky.vercel.app/)
 [![AMD Slingshot](https://img.shields.io/badge/AMD_Slingshot_Hackathon-Participant-ED1C24?style=for-the-badge)](https://cybershield-inky.vercel.app/)
+![Stack](https://img.shields.io/badge/Stack-Python·C·Gemini·FastAPI-0c4a6e?style=flat-square)
 
 <br/>
-<img src="assets/cybershield_showcase.png" width="100%" alt="CyberShield AI SME Security Suite Showcase" />
+<img src="assets/cybershield_showcase.png" width="100%" alt="CyberShield AI — SME Security Suite with offline mesh network" />
 
 </div>
 
-CyberShield is a comprehensive security suite developed for SMEs and defense intelligence. Developed for the AMD Slingshot Hackathon, the system features a multi-layered vulnerability scanner alongside a low-level C-based offline mesh communication network for emergency triage. It scores business IT networks on security compliance parameters.
+CyberShield AI is a 5-layer security suite for SMEs featuring a multi-parameter vulnerability scanner, an LLM-powered threat categorization engine, and a low-level C-based offline mesh network for emergency encrypted communication.
 
-- 🔐 **5-Layer SME Protection**: Audits network configs, cloud permissions, and endpoint security.
-- 📡 **Offline Mesh Network**: A low-level **C-based mesh topology** for off-grid encryption.
-- 🧠 **Threat Analysis**: Employs LLMs to categorize vulnerabilities and recommend remediation actions.
-- **Stack**: `Python` · `C` · `Gemini` · `FastAPI`
+- 🔐 **5-Layer Audit**: Network configs · Cloud IAM · Endpoints · Firewall rules · API exposure
+- 📡 **Offline Mesh**: C-based AES-256 mesh topology for air-gapped encrypted relay
+- 🧠 **AI Threat Analysis**: Gemini categorizes CVEs and generates prioritized remediation plans
+- **Stack**: `Python` · `C` · `Gemini` · `FastAPI` · `Vercel`
 
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
-### 🧠 Artificial Intelligence & Machine Learning (AI / ML)
-- **Programming Languages**: **Python** (PyTorch, TensorFlow, Scikit-Learn) for building, training, and testing model architectures.
-- **Generative AI Models**: **Gemini 1.5 Pro**, **Gemini 2.0 Flash**, **Gemini 2.5 Flash**, **Llama**, and **Gemma** for advanced text, audio, and video synthesis.
-- **Agentic AI & Orchestration**: **Google ADK**, **Google Genkit 1.27**, and **LangChain** for RAG, multi-agent frameworks, tool usage, and failover topologies.
-- **Edge AI & Local Inference**: Quantized **GGUF** models running locally using **Llama.cpp** for offline-first clinical reasoning.
+### 🧠 AI / ML & Agentic Systems
+> Python · PyTorch · TensorFlow · Scikit-Learn · LangChain · LlamaIndex · Google ADK · Genkit · Gemini API · Vertex AI · Llama.cpp · GGUF Quantization · RAG · Multi-Agent Orchestration · Edge AI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6B3FA0?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
   <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
   <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
   <img src="https://img.shields.io/badge/Llama.cpp-gray?style=for-the-badge" alt="Llama.cpp" />
   <img src="https://img.shields.io/badge/Firebase_Genkit-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Genkit" />
 </p>
 
-### ⚡ Full-Stack Software Engineering
-- **Frontend Architectures**: **Next.js 15/16 (App Router)**, **React 18/19**, **React Native** for cross-platform Android & iOS apps, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
-- **Backend Infrastructure**: **FastAPI**, **Node.js**, **Django**, and **REST APIs** for building robust endpoints and event-driven architectures.
-- **Systems & Languages**: Low-level **C** development, **RISC-V Assembly**, and automation using **Shell Scripting**.
+### ⚡ Full-Stack Engineering
+> Next.js · React · React Native · TypeScript · Tailwind CSS · FastAPI · Node.js · Django · REST · WebSockets · C · RISC-V
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
-### ☁️ Cloud Computing, DevOps & Infrastructure
-- **Platforms**: **Google Cloud Platform (GCP)**, **Microsoft Azure**, and **Amazon Web Services (AWS)**.
-- **Serverless & Hosting**: **Firebase App Hosting**, **Cloud Run** for containerized apps, **Cloud Functions**, and **Vercel** deployments.
-- **Containerization & CI/CD**: **Docker** configurations and automated delivery pipelines.
+### ☁️ Cloud, DevOps & Infrastructure
+> Google Cloud Platform · Microsoft Azure · AWS · Firebase · Cloud Run · Cloud Functions · Docker · Vercel · Netlify
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
@@ -319,15 +344,15 @@ CyberShield is a comprehensive security suite developed for SMEs and defense int
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-### 🗄️ Database Management & Vector Search
-- **Relational Databases**: **PostgreSQL** and general **SQL** databases.
-- **Document & Vector Stores**: **Firestore** collections, **AlloyDB** for high-performance transactions, and **ScaNN Vector Search** for semantic indexing.
+### 🗄️ Databases & Vector Search
+> PostgreSQL · Firestore · AlloyDB · ScaNN Vector Search · Redis · SQL
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
   <img src="https://img.shields.io/badge/AlloyDB-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AlloyDB" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/ScaNN_Vector_Search-0c4a6e?style=for-the-badge&logo=googlecloud&logoColor=white" alt="ScaNN" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 ---
@@ -336,61 +361,68 @@ CyberShield is a comprehensive security suite developed for SMEs and defense int
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaraj74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaraj74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaraj74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Balaraj R GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaraj74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=balaraj74&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=balaraj74&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=balaraj74&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&hide_border=true&area_color=0c4a6e" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=balaraj74&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&hide_border=true&area_color=0c4a6e" alt="Contribution Activity Graph" />
 
 </div>
 
 ---
 
-## 🎓 Certifications & Credentials
+## 🤝 Open Source
 
-<div align="center">
+> Building in public and contributing back to the ecosystem.
 
-| 🏅 Certification | 🏛️ Issuer | 📅 Date |
+| Project | Contribution | Status |
 |---|---|---|
-| 🏆 **Gen AI Exchange Hackathon — Winner** | Google Cloud × Hack2skill | 2026 |
-| 🎓 **Gemini Certified Educator** | Google for Education | Jun 2025 |
-| 🤖 **5-Day AI Agents Intensive** | Kaggle × Google | Dec 2025 |
-| ☁️ **Gen AI Academy 2.0 — AI/ML Track** | Google Cloud × Hack2skill | Jan 2026 |
-| ☁️ **Gen AI Academy 2.0 — Networking Track** | Google Cloud × Hack2skill | Jan 2026 |
-| ☁️ **Gen AI Academy 2.0 — Cloud Architecture** | Google Cloud × Hack2skill | Jan 2026 |
-| ☁️ **Gen AI Academy 2.0 — Data Analytics** | Google Cloud × Hack2skill | Jan 2026 |
-| ☁️ **Gen AI Academy 2.0 — DevOps Track** | Google Cloud × Hack2skill | Dec 2025 |
-| ☁️ **Gen AI Academy 2.0 — Serverless Track** | Google Cloud × Hack2skill | Dec 2025 |
-| ☁️ **Gen AI Academy 2.0 — Security Track** | Google Cloud × Hack2skill | Dec 2025 |
-| 🥇 **Inferentia 2.0 — 1st Place Achievement** | PES University · AURA | Sep 2025 |
-| 🏛️ **Meta PyTorch Hackathon — Round 1** | Meta × OpenEnv × Scaler | Apr 2026 |
-| 🔴 **Oracle Cloud Infrastructure Gen AI Professional** | Oracle | 2025 |
-| 🔶 **AWS Job Roles in the Cloud** | Amazon Web Services | Nov 2025 |
-| 🔶 **AWS Cloud Practitioner Essentials** | Amazon Web Services | Nov 2025 |
-| 💻 **Frontend Developer (React)** | HackerRank | Oct 2025 |
-| 💻 **JavaScript (Intermediate)** | HackerRank | Oct 2025 |
-| 🤖 **Agentic AI Day** | Google Cloud × Hack2skill | 2025 |
-| 🎓 **AI for Beginners** | HP LIFE Foundation | Nov 2025 |
-| 🔵 **Code of Honour 2.0** | PESIT × Unstop | 2025 |
+| 🔥 **Firebase Genkit** | Agentic workflow examples for multi-step pipelines | 🔵 Planned |
+| 🦜 **LangChain** | LlamaIndex + Gemini RAG integration documentation | 🔵 Planned |
+| 🦙 **llama-cpp-python** | Improved Android build guide for mobile inference | 🔵 Planned |
+| 🌾 **AgriSence** | Open-sourcing crop disease model weights on HuggingFace | 🟡 In Progress |
+| 🤗 **HuggingFace Hub** | Uploading fine-tuned multilingual medical NLP models | 🟡 In Progress |
 
-> 📜 **View all 35+ certificates →** [**balaraj.vercel.app**](https://balaraj.vercel.app)
+> 💡 **Open to collaboration**: If you're building in Healthcare AI, Edge AI, or AgriTech — let's talk.
+> Reach me at **balarajr483@gmail.com** or **[balaraj.vercel.app](https://balaraj.vercel.app)**
+
+---
+
+## 🎓 Top Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏛️ Issuer | 📅 |
+|---|---|---|
+| 🏆 **Gen AI Exchange Hackathon — National Winner** | Google Cloud × Hack2skill | 2025 |
+| 🎓 **Gemini Certified Educator** | Google for Education | Jun 2025 |
+| 🤖 **5-Day Gen AI Intensive — Agents Track** | Kaggle × Google | Dec 2025 |
+| ☁️ **Gen AI Academy 2.0** — AI/ML · Cloud · DevOps · Security | Google Cloud × Hack2skill | 2025–2026 |
+| 🔴 **Oracle Cloud Infrastructure — Gen AI Professional** | Oracle | 2025 |
+| 🔶 **AWS Cloud Practitioner Essentials** | Amazon Web Services | Nov 2025 |
+| 🏛️ **Meta PyTorch Hackathon — Round 1** | Meta × OpenEnv × Scaler | Apr 2026 |
+| 💻 **Frontend Developer (React)** | HackerRank | Oct 2025 |
+| 🥇 **Inferentia 2.0 — 1st Place** | PES University · AURA | Sep 2025 |
+| 🔵 **Agentic AI Day** | Google Cloud × Hack2skill | 2025 |
+
+> 📜 **Full list of 35+ certificates →** [**balaraj.vercel.app**](https://balaraj.vercel.app)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
+
+## 📫 Let's Build Something Together
 
 <table>
 <tr>
@@ -412,49 +444,33 @@ CyberShield is a comprehensive security suite developed for SMEs and defense int
   </a>
 </td>
 <td align="center">
-  <a href="https://wa.me/918431206594">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center">
   <a href="https://www.kaggle.com/balarajr">
     <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </td>
-<td align="center">
-  <a href="https://huggingface.co/balarajr">
-    <img src="https://img.shields.io/badge/🤗_Hugging_Face-Models-FFD21E?style=for-the-badge" />
-  </a>
-</td>
 </tr>
 <tr>
 <td align="center">
-  <a href="https://g.dev/balarajr">
-    <img src="https://img.shields.io/badge/Google_Dev_Profile-g.dev/balarajr-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <a href="https://huggingface.co/balarajr">
+    <img src="https://img.shields.io/badge/🤗_Hugging_Face-balarajr-FFD21E?style=for-the-badge" />
   </a>
 </td>
 <td align="center">
-  <a href="https://x.com/Balaraj__r">
-    <img src="https://img.shields.io/badge/X_(Twitter)-@Balaraj__r-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://g.dev/balarajr">
+    <img src="https://img.shields.io/badge/Google_Dev-g.dev/balarajr-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-## ⭐ If any of my work helps you, a star means a lot!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c4a6e,100:0d1117&height=100&section=footer&fontColor=38bdf8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c4a6e,100:0d1117&height=100&section=footer&fontColor=38bdf8" width="100%" alt="footer" />
 
 *"Build AI systems that support humans in critical decision-making — safely, transparently, and responsibly."*
 
-**— Balaraj R | [balaraj.vercel.app](https://balaraj.vercel.app)**
+**— Balaraj R &nbsp;|&nbsp; [balaraj.vercel.app](https://balaraj.vercel.app) &nbsp;|&nbsp; Open to Collaborations 🤝**
+
+<!-- SEO Keywords: Balaraj R, AI Engineer, ML Engineer, Healthcare AI, Edge AI, AgriTech AI, VaidyaOS, AgriSence, CareerLens, HealthMesh, Multi-Agent AI, Agentic AI, React Native, Next.js, Google Cloud, Firebase, Gemini API, Llama.cpp, GGUF, Offline AI, PES University, Bengaluru, India AI Engineer -->
 
 </div>
