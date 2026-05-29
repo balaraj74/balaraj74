@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00BFFF&center=true&vCenter=true&width=950&lines=AI+%26+ML+Engineer;Healthcare+AI+%7C+AgriTech+AI+%7C+Career+Intelligence;Building+Ethical+%26+Explainable+AI;Hackathon+Winner+%F0%9F%8F%86" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00BFFF&center=true&vCenter=true&width=950&lines=AI+%26+ML+Engineer;Healthcare+AI+%7C+AgriTech+AI+%7C+Career+Intelligence;Building[...]"
   </a>
 </p>
 
@@ -139,6 +139,9 @@
 
 ## 📫 Contact & Connect
 <p align="center">
+  <a href="https://balaraj.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://balaraj.b12sites.com">
     <img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
