@@ -128,6 +128,9 @@ class BalarajR:
 [![VaidyaOS GitHub](https://img.shields.io/badge/GitHub-VaidyaOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/VaidyaOS)
 [![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://roaring-valkyrie-042963.netlify.app/VaidyaOS.apk)
 
+<br/>
+<img src="assets/vaidyaos_showcase.png" width="100%" alt="VaidyaOS Edge AI Healthcare Operating System Showcase" />
+
 </div>
 
 VaidyaOS is an edge-based, offline-first artificial intelligence operating system designed for healthcare accessibility. Engineered to operate under zero-connectivity constraints, it enables clinical triage and medical support directly on mobile devices by running quantized Large Language Models (LLMs) locally. It provides rural patients and medical professionals with offline clinical reasoning, multilingual medical terminology translation, and local health record caching.
@@ -146,6 +149,9 @@ VaidyaOS is an edge-based, offline-first artificial intelligence operating syste
 [![CareerLens GitHub](https://img.shields.io/badge/GitHub-CareerLens-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/careerlens)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-careerlens.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://careerlens--careerlens-1.us-central1.hosted.app)
 [![Winner Badge](https://img.shields.io/badge/🏆_Google_Gen_AI_Exchange-NATIONAL_WINNER-FFD700?style=for-the-badge)](https://careerlens--careerlens-1.us-central1.hosted.app)
+
+<br/>
+<img src="assets/careerlens_showcase.png" width="100%" alt="CareerLens AI Career Intelligence Platform Showcase" />
 
 </div>
 
@@ -166,6 +172,9 @@ CareerLens is a highly scalable, event-driven AI platform designed for career in
 [![Live Demo](https://img.shields.io/badge/Live_Demo-agrisence.app-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
 [![Winner Badge](https://img.shields.io/badge/🥇_INFERENTIA_2.0-STATE_WINNER-gold?style=for-the-badge)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
 
+<br/>
+<img src="assets/agrisence_showcase.png" width="100%" alt="AgriSence AI Smart Farming Platform Showcase" />
+
 </div>
 
 AgriSence is an agricultural AI platform designed to empower rural farmers with real-time agronomic insights. Winning first place at the Inferentia 2.0 Hackathon, the platform utilizes computer vision for crop disease detection and provides voice-assisted guidelines in seven regional Indian languages. It merges satellite imagery with weather analytics to offer predictive farming advice.
@@ -185,6 +194,9 @@ AgriSence is an agricultural AI platform designed to empower rural farmers with 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-omnisence.run-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omnisence-518586257861.us-central1.run.app/)
 [![Finalist](https://img.shields.io/badge/Gemini_Live_Agent-Finalist-a855f7?style=for-the-badge)](https://omnisence-518586257861.us-central1.run.app/)
 
+<br/>
+<img src="assets/omnisence_showcase.png" width="100%" alt="OmniSence Multimodal Creative AI Engine Showcase" />
+
 </div>
 
 OmniSence is a multimodal creative AI story engine that streamlines media generation. It processes textual prompts to automatically construct narrated video stories by chaining LLMs with Imagen and text-to-speech services in a low-latency streaming pipeline. The system handles image generation, narration synthesis, and video stitching asynchronously on Google Cloud.
@@ -201,6 +213,9 @@ OmniSence is a multimodal creative AI story engine that streamlines media genera
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-healthmesh.azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://healthmesh.azurewebsites.net)
 [![Imagine Cup](https://img.shields.io/badge/Microsoft_Imagine_Cup-Participant-0078d4?style=for-the-badge&logo=microsoft&logoColor=white)](https://healthmesh.azurewebsites.net)
+
+<br/>
+<img src="assets/healthmesh_showcase.png" width="100%" alt="HealthMesh v2.0 Clinical AI Platform Showcase" />
 
 </div>
 
@@ -219,6 +234,9 @@ HealthMesh is a clinical orchestration platform designed to streamline doctor-pa
 [![Live Demo](https://img.shields.io/badge/Live_Demo-taskforze.run-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taskforze-7k4ykvztvq-uc.a.run.app/)
 [![Google APAC](https://img.shields.io/badge/Google_APAC_Hackathon-Participant-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://taskforze-7k4ykvztvq-uc.a.run.app/)
 
+<br/>
+<img src="assets/taskforze_showcase.png" width="100%" alt="TaskForze Multi-Agent Productivity System Showcase" />
+
 </div>
 
 TaskForze is an agentic productivity system that automates task orchestration and team coordination. It leverages a supervisor node to coordinate five specialized sub-agents and uses automated SMS, WhatsApp, and interactive voice call triggers for deadline escalations. It enables team leaders to trace workflows using a graphical UI.
@@ -235,6 +253,9 @@ TaskForze is an agentic productivity system that automates task orchestration an
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-cybershield.vercel-64748b?style=for-the-badge&logo=vercel&logoColor=white)](https://cybershield-inky.vercel.app/)
 [![AMD Slingshot](https://img.shields.io/badge/AMD_Slingshot_Hackathon-Participant-ED1C24?style=for-the-badge)](https://cybershield-inky.vercel.app/)
+
+<br/>
+<img src="assets/cybershield_showcase.png" width="100%" alt="CyberShield AI SME Security Suite Showcase" />
 
 </div>
 
