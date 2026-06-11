@@ -102,6 +102,7 @@ class BalarajR:
 
 | 🔨 Project | 📍 Status | 🎯 Next Milestone |
 |---|---|---|
+| **Darwin** — AI Executive Board | 🟢 Active | Digital Twin evolution across sessions, Export report |
 | **VaidyaOS** — Edge AI Healthcare OS | 🟢 Active | Multilingual symptom parser v2, Gemma 3 GGUF upgrade |
 | **AgriSence** — AI Smart Farming | 🟢 Active | NDVI satellite feed integration, 7-language voice expansion |
 | **HealthMesh v2** — Clinical AI | 🟡 Iterating | FHIR R4 audit log compliance, 2 new agent specializations |
@@ -127,6 +128,34 @@ class BalarajR:
 ---
 
 ## 🚀 Flagship Projects
+
+### 🤖 Darwin — The AI Executive Board for Founders
+<div align="center">
+
+[![Darwin GitHub](https://img.shields.io/badge/GitHub-Darwin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/darwin)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-darwin.run.app-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darwin-5dleehg6la-el.a.run.app)
+[![API Docs](https://img.shields.io/badge/API-FastAPI_Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://darwin-backend-5dleehg6la-el.a.run.app/docs)
+![Stack](https://img.shields.io/badge/Stack-FastAPI·Next.js·Vertex_AI·Cloud_Run-0c4a6e?style=flat-square)
+
+<br/>
+<img src="assets/darwin_showcase.png" width="100%" alt="Darwin — The AI Executive Board that builds startups tailored to the founder" />
+
+</div>
+
+**Problem**: Generic startup advice fails solo founders. They need an execution plan constrained by their actual technical skills, capital, and risk tolerance.
+
+Darwin is a full-stack AI platform that acts as an **AI-powered executive board**. It builds a "Digital Twin" of the founder's constraints, then runs a 3-round debate among 5 specialized AI agents (CEO, CFO, CTO, CMO, CPO) to synthesize a final PROCEED/PIVOT/REJECT verdict with an execution blueprint.
+
+| Feature | Implementation |
+|---|---|
+| ⚖️ 3-Round Debate Engine | Parallel + Sequential inference with Vertex AI (Gemini 3.1 Pro) |
+| 🛡️ Hard Constraints | Deterministic CFO/CTO vetoes overriding soft LLM scores |
+| 🏗️ Execution Blueprints | Auto-generates PRDs, financial models, and real GitLab projects |
+| 🌐 Full-Stack Architecture | FastAPI backend + Next.js 14 frontend on GCP Cloud Run |
+
+**Stack**: `FastAPI` · `Next.js 14` · `Vertex AI` · `Firebase` · `Docker` · `Cloud Run`
+
+---
 
 ### 🩺 VaidyaOS — Edge AI Healthcare Operating System
 <div align="center">
