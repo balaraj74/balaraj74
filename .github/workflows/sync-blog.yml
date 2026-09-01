@@ -1,0 +1,28 @@
+name: Sync Latest Blog Posts to Profile README
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest balaraj.me articles
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull RSS feed and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://balaraj.me/rss.xml"
+          max_post_count: 5
+          readme_path: "README.md"
+          template: "$newline- [$title]($url) — *$date*"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: automated sync of latest articles from balaraj.me"
