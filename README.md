@@ -97,12 +97,11 @@ class BalarajR:
 
 ## 📰 Latest Articles from balaraj.me/blogs
 <!-- BLOG-POST-LIST:START -->
-- [AgriSence: The AI Operating System for India's 140M Smallholder Farmers](https://balaraj.me/blogs/agrisence-ai-agricultural-operating-system)
-- [Building Darwin: The AI Executive Board for Startup Founders](https://balaraj.me/blogs/building-darwin-ai-executive-board)
-- [Building VaidyaOS: Offline Healthcare AI Using Edge AI & GGUF](https://balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai)
-- [TaskForze: Autonomous Agent Swarm Orchestration with Dynamic Replanning](https://balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration)
-- [Scaling AI with Event-Driven Microservices: Lessons from 32 Services](https://balaraj.me/blogs/event-driven-microservices-ai)
-<!-- BLOG-POST-LIST:END -->
+- [AgriSence: The AI Operating System for India&#39;s 140M Smallholder Farmers](https://balaraj.me/blogs/agrisence-ai-agricultural-operating-system) — *Jun 15, 2026*
+- [Building Darwin: The AI Executive Board for Startup Founders](https://balaraj.me/blogs/building-darwin-ai-executive-board) — *Jun 12, 2026*
+- [TaskForze: Autonomous Agent Swarm Orchestration with Dynamic Replanning](https://balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration) — *Jun 10, 2026*
+- [Building VaidyaOS: Offline Healthcare AI Using Edge AI](https://balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai) — *May 29, 2026*
+- [How AgriSence Uses AI for Crop Disease Detection](https://balaraj.me/blogs/how-agrisence-uses-ai-for-crop-disease-detection) — *May 28, 2026*<!-- BLOG-POST-LIST:END -->
 
 > 📡 *Updated automatically every 12 hours via GitHub Actions from [`balaraj.me/rss.xml`](https://balaraj.me/rss.xml)*
 
