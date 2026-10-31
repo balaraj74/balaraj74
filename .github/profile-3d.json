@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "backgroundColor": "#0c0a09",
+  "foregroundColor": "#e7e5e4",
+  "strongColor": "#f76616",
+  "weakColor": "#a8a29e",
+  "radarColor": "#f76616",
+  "growingAnimation": true,
+  "fileName": "ember.svg",
+  "contribColors": ["#1c1917", "#7c2d12", "#c2410c", "#f76616", "#fbbf24"]
+}

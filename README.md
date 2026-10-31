@@ -1,101 +1,123 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0c4a6e,100:0d1117&height=220&section=header&text=Balaraj%20R&fontSize=72&fontColor=38bdf8&animation=twinkling&fontAlignY=45&desc=AI%2FML%20Engineer%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Multi-Agent%20Systems%20%E2%80%A2%20Cloud-Native&descSize=18&descAlignY=70&descColor=94a3b8" width="100%" alt="Balaraj R — AI/ML Engineer | Full Stack Developer | Intelligent Systems Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0A09,55:7C2D12,100:F76616&height=210&section=header&text=Balaraj%20R&fontColor=FAF7F2&fontSize=68&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Bengaluru&descColor=FBAD74&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Balaraj R, AI/ML Engineer, Bengaluru" />
 
-<!-- Animated Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=760&height=45&lines=%F0%9F%A4%96%20Building%20Production-Ready%20Multi-Agent%20AI%20Systems%3B%F0%9F%8F%86%202%C3%97%20National%20Hackathon%20Winner%20%28Google%20Gen%20AI%20%26%20Inferentia%29%3B%F0%9F%A7%A0%20Edge%20AI%20%7C%20Quantized%20GGUF%20Inference%20on%20Mobile%3B%E2%98%81%EF%B8%8F%20Google%20Cloud%20Gold%20League%20%7C%2022%2B%20Verified%20Cloud%20Credentials%3B%E2%9A%A1%20PES%20University%20%E2%80%94%20CSE%20%28AI%20%26%20ML%29%202024%E2%80%932028" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=F76616&center=true&vCenter=true&width=760&height=44&lines=Multi-agent+systems+with+hard+constraints;Quantized+LLMs+running+offline+on+Android;Event-driven+backends+at+production+scale;2%C3%97+national+hackathon+winner" alt="Multi-agent systems, edge AI, event-driven backends" />
 
-<br/><br/>
-
-<!-- Impact Metric Badges -->
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/10+-Hackathons-1e3a5f?style=for-the-badge&logo=trophy&logoColor=white" /><br/>
-<b>Competed</b>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/2×-National_Winner-7c3aed?style=for-the-badge&logo=medal&logoColor=white" /><br/>
-<b>Top Honours</b>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Google_Cloud-Gold_League_6.5K-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
-<b>Top 1% Skills</b>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/7-Live_AI_Products-0c4a6e?style=for-the-badge&logo=rocket&logoColor=white" /><br/>
-<b>Shipped</b>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/22+-Cloud_Badges-0e7490?style=for-the-badge&logo=certificate&logoColor=white" /><br/>
-<b>Verified Credentials</b>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Unified Links -->
 <p>
-  <a href="https://balaraj.me"><img src="https://img.shields.io/badge/🚀_Portfolio-balaraj.me-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://balaraj.me/blogs"><img src="https://img.shields.io/badge/✍️_Engineering_Blog-balaraj.me%2Fblogs-06b6d4?style=for-the-badge&logo=readme&logoColor=white" alt="Blog" /></a>
-  <a href="https://www.linkedin.com/in/balaraj-r-209a67330"><img src="https://img.shields.io/badge/LinkedIn-Balaraj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:balarajr483@gmail.com"><img src="https://img.shields.io/badge/📧_Email-balarajr483@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://balaraj.me"><img src="https://img.shields.io/badge/Portfolio-1C1917?style=for-the-badge&logo=vercel&logoColor=F76616" alt="Portfolio" /></a>
+  <a href="https://balaraj.me/blogs"><img src="https://img.shields.io/badge/Writing-1C1917?style=for-the-badge&logo=readdotcv&logoColor=F76616" alt="Writing" /></a>
+  <a href="https://www.linkedin.com/in/balaraj-r-209a67330"><img src="https://img.shields.io/badge/LinkedIn-1C1917?style=for-the-badge&labelColor=1C1917" alt="LinkedIn" /></a>
+  <a href="https://x.com/Balaraj__r"><img src="https://img.shields.io/badge/X-1C1917?style=for-the-badge&logo=x&logoColor=F76616" alt="X" /></a>
+  <a href="https://huggingface.co/balarajr"><img src="https://img.shields.io/badge/Hugging_Face-1C1917?style=for-the-badge&logo=huggingface&logoColor=F76616" alt="Hugging Face" /></a>
+  <a href="mailto:balarajr483@gmail.com"><img src="https://img.shields.io/badge/Email-1C1917?style=for-the-badge&logo=gmail&logoColor=F76616" alt="Email" /></a>
 </p>
 <p>
-  <a href="https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b"><img src="https://img.shields.io/badge/Google_Skills-Gold_League_Verified-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills" /></a>
-  <a href="https://huggingface.co/balarajr"><img src="https://img.shields.io/badge/🤗_Hugging_Face-balarajr-FFD21E?style=for-the-badge" alt="Hugging Face" /></a>
-  <a href="https://www.kaggle.com/balarajr"><img src="https://img.shields.io/badge/Kaggle-balarajr-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://x.com/Balaraj__r"><img src="https://img.shields.io/badge/X_(Twitter)-@Balaraj__r-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-</p>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=balaraj74&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/balaraj74?style=for-the-badge&color=0e7490&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/badge/PES%20University-CSE%20AI%20%26%20ML%202024--2028-38bdf8?style=for-the-badge&logoColor=white" alt="PES University" />
-</p>
-
-<!-- Agent Pipeline SVG -->
-<p align="center">
-  <img src="agent-pipeline.svg" width="100%" alt="Balaraj R — Agentic AI Multi-Agent Orchestration Pipeline Visualizer" />
+  <a href="https://balaraj.me/resume.pdf"><img src="https://img.shields.io/badge/Resume-1C1917?style=for-the-badge&logo=readdotcv&logoColor=F76616" alt="Resume" /></a>
+  <a href="https://www.kaggle.com/balarajr"><img src="https://img.shields.io/badge/Kaggle-1C1917?style=for-the-badge&logo=kaggle&logoColor=F76616" alt="Kaggle" /></a>
+  <a href="https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b"><img src="https://img.shields.io/badge/Google_Skills-1C1917?style=for-the-badge&logo=googlecloud&logoColor=F76616" alt="Google Skills" /></a>
+  <a href="https://g.dev/balarajr"><img src="https://img.shields.io/badge/Google_Dev-1C1917?style=for-the-badge&logo=google&logoColor=F76616" alt="Google Developer profile" /></a>
+  <a href="https://www.instagram.com/balaraj.__r/"><img src="https://img.shields.io/badge/Instagram-1C1917?style=for-the-badge&logo=instagram&logoColor=F76616" alt="Instagram" /></a>
 </p>
 
 </div>
 
----
+I build AI systems that have to work outside a demo: agents with hard constraints, models that run offline on a phone, and backends that hold up under load.
 
-## 👨‍💻 Engineering Identity
+<table>
+<tr><td><b>Role</b></td><td>AI/ML Engineer, Edge AI, Distributed Systems</td></tr>
+<tr><td><b>Based in</b></td><td>Bengaluru, Karnataka, India (open to remote)</td></tr>
+<tr><td><b>Education</b></td><td>B.Tech CSE (AI &amp; ML), PES University, 2024 to 2028</td></tr>
+<tr><td><b>Focus</b></td><td>Multi-agent orchestration, on-device inference, healthcare and agriculture AI</td></tr>
+<tr><td><b>Open to</b></td><td>AI/ML internships, high-impact projects and collaborations</td></tr>
+<tr><td><b>Email</b></td><td><a href="mailto:balarajr483@gmail.com">balarajr483@gmail.com</a></td></tr>
+</table>
 
-```python
-class BalarajR:
-    role       = "AI/ML Engineer | Edge AI Specialist | Distributed Systems Builder"
-    location   = "Bengaluru, Karnataka, India 🇮🇳"
-    education  = "PES University — B.Tech CSE (AI & ML), 2024–2028"
-    portfolio  = "https://balaraj.me"
-    contact    = "balarajr483@gmail.com"
+## Experience
 
-    core_domains = [
-        "Edge AI — Quantized on-device LLM inference (Gemma, Llama.cpp, GGUF)",
-        "Agentic Swarms & Multi-Agent Orchestration (LangGraph, Google ADK, Genkit)",
-        "Healthcare AI — Offline-first clinical triage & HIPAA-ready architectures",
-        "Agritech AI — Satellite earth intelligence (Sentinel-2) + Multimodal vision",
-        "Event-Driven Cloud Microservices (GCP Cloud Run, Functions, AlloyDB, Firebase)",
-    ]
+| Role | Where | When |
+|:---|:---|:---|
+| **Project Engineering Intern** | Novabion Pvt. Ltd. Shipping Pashu Drishti, an offline-first edge AI system for livestock diagnostics | Oct 2026 to present |
+| **Gen AI Intern** | AatonovaZ Technologies. LLM pipelines, evaluation and prompt engineering | Aug 2026 to present |
+| **Open-source contributor** | Ubuntu, pandas and NumPy | Jan 2024 to present |
 
-    flagship_systems = {
-        "Darwin"     : "Multi-agent AI executive board running 3-round adversarial debates",
-        "VaidyaOS"   : "Edge AI clinical OS running quantized LLMs on offline Android devices",
-        "CareerLens" : "32-microservice AI career mapping platform — Google Gen AI National Winner 🏆",
-        "AgriSence"  : "Precision agriculture OS serving 140M smallholder farmers — Inferentia Winner 🥇",
-        "TaskForze"  : "Autonomous multi-agent swarm orchestration with dynamic self-healing loops",
-    }
-```
+## Selected work
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://balaraj.me/projects/darwin"><img src="assets/projects/darwin.jpg" width="100%" alt="Darwin" /></a>
+<h3><a href="https://github.com/balaraj74/Darwin">Darwin</a></h3>
+AI executive board: 5 agents debate a startup plan over 3 rounds, with hard constraint vetoes.<br/><br/>
+<sub><code>FastAPI · Next.js · Vertex AI · Cloud Run</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://balaraj.me/projects/vaidyos"><img src="assets/projects/vaidyaos.jpg" width="100%" alt="VaidyaOS" /></a>
+<h3><a href="https://github.com/balaraj74/VaidyaOS">VaidyaOS</a></h3>
+Clinical AI that runs quantized LLMs on Android with no internet.<br/><br/>
+<sub><code>React Native · Gemma · llama.cpp</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://balaraj.me/projects/career-lens"><img src="assets/projects/careerlens.jpg" width="100%" alt="CareerLens" /></a>
+<h3><a href="https://github.com/balaraj74/CareerLens">CareerLens</a></h3>
+32-service career intelligence platform. National winner, Google Gen AI Exchange.<br/><br/>
+<sub><code>Next.js · TypeScript · Gemini · Vector Search</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://balaraj.me/projects/agrisence"><img src="assets/projects/agrisence.jpg" width="100%" alt="AgriSence" /></a>
+<h3><a href="https://github.com/balaraj74/AgriSence">AgriSence</a></h3>
+Crop disease detection and advisory in 7 Indian languages. 1st place, Inferentia 2.0.<br/><br/>
+<sub><code>Next.js · Gemini · Genkit · GCP</code></sub>
+</td>
+</tr>
+</table>
 
-## 📰 Latest Articles from balaraj.me/blogs
+Also: [TaskForze](https://github.com/balaraj74/TaskForze) · [openNPC](https://github.com/balaraj74/openNPC) · [HealthMesh](https://github.com/balaraj74/HealthMesh) · [OmniSence](https://github.com/balaraj74/Omnisence)
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,gcp,firebase,docker,kubernetes,nextjs,react,fastapi,nodejs,postgres,linux,githubactions&perline=8&theme=dark" alt="Python, TypeScript, PyTorch, TensorFlow, GCP, Firebase, Docker, Kubernetes, Next.js, React, FastAPI, Node.js, PostgreSQL, Linux, GitHub Actions" />
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/balaraj74/balaraj74/output/ember.svg" width="100%" alt="3D contribution calendar" />
+
+<img src="https://streak-stats.demolab.com?user=balaraj74&hide_border=true&background=0C0A09&stroke=F76616&ring=F76616&fire=FBAD74&currStreakNum=FAF7F2&sideNums=FAF7F2&currStreakLabel=FBAD74&sideLabels=D6D3D1&dates=A8A29E" width="100%" alt="GitHub streak" />
+
+<img src="https://raw.githubusercontent.com/balaraj74/balaraj74/output/github-snake.svg" width="100%" alt="Contribution snake" />
+
+</div>
+
+## Recognition
+
+<table>
+<tr>
+<td><b>National Winner</b><br/><sub>Google Gen AI Exchange, 2025</sub></td>
+<td><b>1st Place</b><br/><sub>Inferentia 2.0, 2025</sub></td>
+<td><b>Grand Finale</b><br/><sub>Meta PyTorch OpenEnv, 2026</sub></td>
+<td><b>Finalist</b><br/><sub>Google Gen AI Academy APAC, 2026</sub></td>
+</tr>
+</table>
+
+## Certifications
+
+- Oracle Cloud Infrastructure Generative AI Professional
+- Google Cloud Gen AI Academy APAC 2026, Cohorts 1 to 3
+- 35+ verified badges on [Google Skills](https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b), Gold League
+- HackerRank Frontend Developer (React) and JavaScript (Intermediate)
+
+[All certificates](https://balaraj.me/#achievements)
+
+## Writing
+
 <!-- BLOG-POST-LIST:START -->
 - [AgriSence: The AI Operating System for India&#39;s 140M Smallholder Farmers](https://balaraj.me/blogs/agrisence-ai-agricultural-operating-system) — *Jun 15, 2026*
 - [Building Darwin: The AI Executive Board for Startup Founders](https://balaraj.me/blogs/building-darwin-ai-executive-board) — *Jun 12, 2026*
@@ -103,237 +125,17 @@ class BalarajR:
 - [Building VaidyaOS: Offline Healthcare AI Using Edge AI](https://balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai) — *May 29, 2026*
 - [How AgriSence Uses AI for Crop Disease Detection](https://balaraj.me/blogs/how-agrisence-uses-ai-for-crop-disease-detection) — *May 28, 2026*<!-- BLOG-POST-LIST:END -->
 
-> 📡 *Updated automatically every 12 hours via GitHub Actions from [`balaraj.me/rss.xml`](https://balaraj.me/rss.xml)*
-
----
-
-## 🏛️ System Architecture Highlights
-
-```mermaid
-graph TD
-    User["Client (Mobile / Web App)"] --> Gateway["API Gateway / Edge Router"]
-    
-    subgraph MultiAgentEngine ["Darwin & TaskForze Multi-Agent Core"]
-        Gateway --> Supervisor["Lead Supervisor / Orchestrator Agent"]
-        Supervisor --> Agent1["Specialist Agent A (Financial / Clinical)"]
-        Supervisor --> Agent2["Specialist Agent B (Architecture / Tech)"]
-        Supervisor --> Agent3["Specialist Agent C (Risk / Validation)"]
-        Agent1 & Agent2 & Agent3 --> Consensus["Debate & Synthesis Engine"]
-        Consensus --> DeterministicRules["Deterministic Constraint Enforcement (Hard Vetoes)"]
-    end
-
-    subgraph EdgeInference ["VaidyaOS Offline Edge Layer"]
-        MobileClient["Android Device"] --> LocalGGUF["Quantized Gemma/Llama Model (llama.cpp)"]
-        LocalGGUF --> LocalStorage["Local SQLite + Offline Triage Engine"]
-        LocalStorage -.-> Sync["Async Cloud Sync on Connection"]
-    end
-
-    subgraph CloudInfra ["GCP Serverless Infrastructure"]
-        DeterministicRules --> CloudRun["Google Cloud Run / Cloud Functions"]
-        CloudRun --> VectorDB["AlloyDB + ScaNN Vector Search"]
-        CloudRun --> Firestore["Firebase Firestore (Live State)"]
-    end
-```
-
----
-
-## 🏆 Honours & Recognitions
-
-<div align="center">
-
-| 🥇 Award | 🏛️ Organiser | 📅 Date |
-|---|---|---|
-| 🏆 **National Winner** — Google Gen AI Exchange Hackathon | Google Cloud × Hack2skill | 2025 |
-| 🥇 **1st Place** — Inferentia 2.0 State Hackathon | PES University · AURA · AI&ML Dept | Sep 2025 |
-| 🌟 **Google APAC Finalist** — Gen AI Academy APAC | Google Cloud × Hack2skill | 2026 |
-| 🚀 **Round 1 Finalist** — Meta PyTorch OpenEnv Hackathon | Meta × OpenEnv × Scaler | Apr 2026 |
-| 🛡️ **AMD Slingshot Hackathon** — CyberShield AI | AMD | 2025 |
-
-</div>
-
----
-
-## 🚀 Flagship Systems & Deep Dives
-
-### 🤖 Darwin — The AI Executive Board for Founders
-<div align="center">
-
-[![Darwin GitHub](https://img.shields.io/badge/GitHub-Darwin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/darwin)
-[![Case Study](https://img.shields.io/badge/Case_Study-balaraj.me-0ea5e9?style=for-the-badge&logo=readme&logoColor=white)](https://balaraj.me/projects/darwin)
-[![Technical Article](https://img.shields.io/badge/Deep_Dive-Blog_Post-06b6d4?style=for-the-badge)](https://balaraj.me/blogs/building-darwin-ai-executive-board)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-darwin.run.app-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darwin-5dleehg6la-el.a.run.app)
-![Stack](https://img.shields.io/badge/Stack-FastAPI·Next.js·Vertex_AI·Cloud_Run-0c4a6e?style=flat-square)
-
-<br/>
-<img src="assets/darwin_showcase.png" width="100%" alt="Darwin — The AI Executive Board that builds startups tailored to the founder" />
-
-</div>
-
-**Problem**: Generic startup advice fails solo founders. They need an execution plan constrained by their actual technical skills, capital, and risk tolerance.
-
-Darwin is a full-stack AI platform that acts as an **AI-powered executive board**. It builds a "Digital Twin" of the founder's constraints, then runs a 3-round debate among 5 specialized AI agents (CEO, CFO, CTO, CMO, CPO) to synthesize a final PROCEED/PIVOT/REJECT verdict with an execution blueprint.
-
-* **Architecture Deep Dive:** Read on [balaraj.me/blogs/building-darwin-ai-executive-board](https://balaraj.me/blogs/building-darwin-ai-executive-board).
-* **Interactive Case Study:** Read on [balaraj.me/projects/darwin](https://balaraj.me/projects/darwin).
-
----
-
-### 🩺 VaidyaOS — Edge AI Healthcare Operating System
-<div align="center">
-
-[![VaidyaOS GitHub](https://img.shields.io/badge/GitHub-VaidyaOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/VaidyaOS)
-[![Case Study](https://img.shields.io/badge/Case_Study-balaraj.me-0ea5e9?style=for-the-badge&logo=readme&logoColor=white)](https://balaraj.me/projects/vaidyos)
-[![Technical Article](https://img.shields.io/badge/Deep_Dive-Blog_Post-06b6d4?style=for-the-badge)](https://balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai)
-[![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://roaring-valkyrie-042963.netlify.app/VaidyaOS.apk)
-![Stack](https://img.shields.io/badge/Stack-React_Native·Gemma·Llama.cpp·Firebase-0c4a6e?style=flat-square)
-
-<br/>
-<img src="assets/vaidyaos_showcase.png" width="100%" alt="VaidyaOS — Edge AI Healthcare OS running offline clinical AI on mobile devices" />
-
-</div>
-
-**Problem**: 65% of India's rural population lacks access to qualified doctors. Internet connectivity is intermittent. Clinical AI must work *without* the cloud.
-
-VaidyaOS is an offline-first Edge AI operating system for healthcare accessibility. It runs quantized LLMs directly on Android devices — enabling clinical triage, symptom analysis, and multilingual medical guidance with zero internet dependency.
-
-* **Architecture Deep Dive:** Read on [balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai](https://balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai).
-* **Interactive Case Study:** Read on [balaraj.me/projects/vaidyos](https://balaraj.me/projects/vaidyos).
-
----
-
-### 🌾 AgriSence — AI Operating System for Smallholder Farmers
-<div align="center">
-
-[![AgriSence GitHub](https://img.shields.io/badge/GitHub-AgriSence-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/AgriSence)
-[![Case Study](https://img.shields.io/badge/Case_Study-balaraj.me-0ea5e9?style=for-the-badge&logo=readme&logoColor=white)](https://balaraj.me/projects/agrisence)
-[![Technical Article](https://img.shields.io/badge/Deep_Dive-Blog_Post-06b6d4?style=for-the-badge)](https://balaraj.me/blogs/agrisence-ai-agricultural-operating-system)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-agrisence.app-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
-[![Winner](https://img.shields.io/badge/🥇_INFERENTIA_2.0-STATE_WINNER-gold?style=for-the-badge)](https://agrisence--agrisence-1dc30.us-central1.hosted.app/)
-![Stack](https://img.shields.io/badge/Stack-Next.js·Gemini·Firebase·Genkit·GCP-0c4a6e?style=flat-square)
-
-<br/>
-<img src="assets/agrisence_showcase.png" width="100%" alt="AgriSence — AI Smart Farming Platform, Inferentia 2.0 State Winner" />
-
-</div>
-
-**Problem**: Indian farmers lose 20–40% of crops annually to preventable diseases and poor advisory access. Agronomic advice is expensive, English-only, and internet-dependent.
-
-AgriSence combines multimodal Gemini vision, satellite earth intelligence (Sentinel-2 and Landsat), and regional voice AI across 7 Indian languages to serve 140 million smallholder farming households.
-
-* **Architecture Deep Dive:** Read on [balaraj.me/blogs/agrisence-ai-agricultural-operating-system](https://balaraj.me/blogs/agrisence-ai-agricultural-operating-system).
-* **Interactive Case Study:** Read on [balaraj.me/projects/agrisence](https://balaraj.me/projects/agrisence).
-
----
-
-### 🎯 CareerLens — AI Career Intelligence Platform
-<div align="center">
-
-[![CareerLens GitHub](https://img.shields.io/badge/GitHub-CareerLens-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/careerlens)
-[![Case Study](https://img.shields.io/badge/Case_Study-balaraj.me-0ea5e9?style=for-the-badge&logo=readme&logoColor=white)](https://balaraj.me/projects/career-lens)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-careerlens.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://careerlens--careerlens-1.us-central1.hosted.app)
-[![Winner](https://img.shields.io/badge/🏆_Google_Gen_AI_Exchange-NATIONAL_WINNER-FFD700?style=for-the-badge)](https://careerlens--careerlens-1.us-central1.hosted.app)
-![Stack](https://img.shields.io/badge/Stack-Next.js·TypeScript·Gemini·Cloud_Functions·Firebase-0c4a6e?style=flat-square)
-
-<br/>
-<img src="assets/careerlens_showcase.png" width="100%" alt="CareerLens — AI Career Intelligence Platform, Google Gen AI Exchange National Winner" />
-
-</div>
-
-* **Architecture Deep Dive:** Read on [balaraj.me/blogs/event-driven-microservices-ai](https://balaraj.me/blogs/event-driven-microservices-ai).
-* **Interactive Case Study:** Read on [balaraj.me/projects/career-lens](https://balaraj.me/projects/career-lens).
-
----
-
-### ⚡ TaskForze — Autonomous Agent Swarm Orchestration
-<div align="center">
-
-[![TaskForze GitHub](https://img.shields.io/badge/GitHub-TaskForze-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaraj74/taskforze)
-[![Case Study](https://img.shields.io/badge/Case_Study-balaraj.me-0ea5e9?style=for-the-badge&logo=readme&logoColor=white)](https://balaraj.me/projects/taskforze)
-[![Technical Article](https://img.shields.io/badge/Deep_Dive-Blog_Post-06b6d4?style=for-the-badge)](https://balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration)
-[![Finalist](https://img.shields.io/badge/Google_APAC-Finalist-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/balaraj74/taskforze)
-![Stack](https://img.shields.io/badge/Stack-LangGraph·FastAPI·Google_ADK·AlloyDB-0c4a6e?style=flat-square)
-
-<br/>
-<img src="assets/taskforze_showcase.png" width="100%" alt="TaskForze — Autonomous Agent Swarm Orchestration with Dynamic Replanning" />
-
-</div>
-
-* **Architecture Deep Dive:** Read on [balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration](https://balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration).
-* **Interactive Case Study:** Read on [balaraj.me/projects/taskforze](https://balaraj.me/projects/taskforze).
-
----
-
-## 🎖️ Google Cloud Skills Verification (Gold League)
-
-Balaraj is ranked in **Google Cloud Skills Gold League (6,527 points)**. Verified badges include:
-- 🛡️ **AI & Enterprise Data:** *Build AI Agents with Enterprise Databases* • *Prompt Design in Vertex AI* • *Prepare Data for ML APIs* • *Streaming Analytics into BigQuery*
-- ☁️ **Serverless & Kubernetes:** *Serverless on Cloud Run* • *Cloud Run Functions (3 Ways)* • *Manage Kubernetes in Google Cloud (GKE)* • *Develop Serverless Apps with Firebase*
-- 🔐 **Security & Infrastructure:** *Build a Secure Google Cloud Network* • *Implement Sensitive Data Protection* • *Create a Secure Data Lake*
-- 📜 **Official Transcript:** [View Verified Transcript on Google Skills](https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b)
-
----
-
-## 📊 GitHub Contribution & Streak Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=balaraj74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=balaraj74&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" alt="GitHub Streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=balaraj74&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&hide_border=true&area_color=0c4a6e" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Let's Build Something Together
+## Connect
 
 <table>
-<tr>
-<td align="center">
-  <a href="https://balaraj.me">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-balaraj.me-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://balaraj.me/blogs">
-    <img src="https://img.shields.io/badge/✍️_Engineering_Blog-balaraj.me%2Fblogs-06b6d4?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-</td>
-<td align="center">
-  <a href="mailto:balarajr483@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-balarajr483@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://www.linkedin.com/in/balaraj-r-209a67330">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b">
-    <img src="https://img.shields.io/badge/Google_Skills-Gold_League-34A853?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://x.com/Balaraj__r">
-    <img src="https://img.shields.io/badge/X_(Twitter)-@Balaraj__r-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</td>
-</tr>
+<tr><td><b>Portfolio</b></td><td><a href="https://balaraj.me">balaraj.me</a></td></tr>
+<tr><td><b>Email</b></td><td><a href="mailto:balarajr483@gmail.com">balarajr483@gmail.com</a></td></tr>
+<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/balaraj-r-209a67330">balaraj-r-209a67330</a></td></tr>
+<tr><td><b>X</b></td><td><a href="https://x.com/Balaraj__r">@Balaraj__r</a></td></tr>
+<tr><td><b>Hugging Face</b></td><td><a href="https://huggingface.co/balarajr">balarajr</a></td></tr>
+<tr><td><b>Kaggle</b></td><td><a href="https://www.kaggle.com/balarajr">balarajr</a></td></tr>
+<tr><td><b>Google Developer</b></td><td><a href="https://g.dev/balarajr">g.dev/balarajr</a></td></tr>
+<tr><td><b>Instagram</b></td><td><a href="https://www.instagram.com/balaraj.__r/">balaraj.__r</a></td></tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c4a6e,100:0d1117&height=100&section=footer&fontColor=38bdf8" width="100%" alt="footer" />
-
-*"Build AI systems that support humans in critical decision-making — safely, transparently, and responsibly."*
-
-**— Balaraj R &nbsp;|&nbsp; [balaraj.me](https://balaraj.me) &nbsp;|&nbsp; Open to Collaborations 🤝**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F76616,45:7C2D12,100:0C0A09&height=110&section=footer" width="100%" alt="" />
