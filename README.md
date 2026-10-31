@@ -103,12 +103,11 @@ Merged open-source contributions to **Ubuntu**, **pandas** and **NumPy**.
 
 <table>
 <!-- BLOG-POST-LIST:START -->
+<tr><td><b><a href="https://balaraj.me/blogs/engineering-pashu-drishti-offline-first-edge-ai-novabion">Engineering Pashu Drishti: Deploying an Offline-First Edge AI System in the Field at Novabion</a></b></td><td align="right"><sub><code>Oct 8, 2026</code></sub></td></tr>
+<tr><td><b><a href="https://balaraj.me/blogs/scaling-generative-ai-systems-llm-pipelines-aatonovaz">Inside AatonovaZ: Architecting Production Generative AI Systems and Enterprise LLM Pipelines</a></b></td><td align="right"><sub><code>Sep 5, 2026</code></sub></td></tr>
 <tr><td><b><a href="https://balaraj.me/blogs/agrisence-ai-agricultural-operating-system">AgriSence: The AI Operating System for India&#39;s 140M Smallholder Farmers</a></b></td><td align="right"><sub><code>Jun 15, 2026</code></sub></td></tr>
 <tr><td><b><a href="https://balaraj.me/blogs/building-darwin-ai-executive-board">Building Darwin: The AI Executive Board for Startup Founders</a></b></td><td align="right"><sub><code>Jun 12, 2026</code></sub></td></tr>
-<tr><td><b><a href="https://balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration">TaskForze: Autonomous Agent Swarm Orchestration with Dynamic Replanning</a></b></td><td align="right"><sub><code>Jun 10, 2026</code></sub></td></tr>
-<tr><td><b><a href="https://balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai">Building VaidyaOS: Offline Healthcare AI Using Edge AI</a></b></td><td align="right"><sub><code>May 29, 2026</code></sub></td></tr>
-<tr><td><b><a href="https://balaraj.me/blogs/how-agrisence-uses-ai-for-crop-disease-detection">How AgriSence Uses AI for Crop Disease Detection</a></b></td><td align="right"><sub><code>May 28, 2026</code></sub></td></tr>
-<!-- BLOG-POST-LIST:END -->
+<tr><td><b><a href="https://balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration">TaskForze: Autonomous Agent Swarm Orchestration with Dynamic Replanning</a></b></td><td align="right"><sub><code>Jun 10, 2026</code></sub></td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <a href="https://balaraj.me/blogs">Read all articles</a>
