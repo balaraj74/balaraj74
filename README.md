@@ -24,14 +24,7 @@
 
 I build AI systems that have to work outside a demo: agents with hard constraints, models that run offline on a phone, and backends that hold up under load.
 
-<table>
-<tr><td><b>Role</b></td><td>AI/ML Engineer, Edge AI, Distributed Systems</td></tr>
-<tr><td><b>Based in</b></td><td>Bengaluru, Karnataka, India (open to remote)</td></tr>
-<tr><td><b>Education</b></td><td>B.Tech CSE (AI &amp; ML), PES University, 2024 to 2028</td></tr>
-<tr><td><b>Focus</b></td><td>Multi-agent orchestration, on-device inference, healthcare and agriculture AI</td></tr>
-<tr><td><b>Open to</b></td><td>AI/ML internships, high-impact projects and collaborations</td></tr>
-<tr><td><b>Email</b></td><td><a href="mailto:balu.balarajr@gmail.com">balu.balarajr@gmail.com</a></td></tr>
-</table>
+<img src="assets/ascii-profile.svg" width="100%" alt="ASCII portrait of Balaraj R beside a terminal panel listing role, focus, stack, work and education." />
 
 ## Experience
 
