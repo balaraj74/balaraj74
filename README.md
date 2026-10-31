@@ -7,13 +7,13 @@
 <p>
   <a href="https://balaraj.me"><img src="https://img.shields.io/badge/Portfolio-1C1917?style=for-the-badge&logo=vercel&logoColor=F76616" alt="Portfolio" /></a>
   <a href="https://balaraj.me/blogs"><img src="https://img.shields.io/badge/Writing-1C1917?style=for-the-badge&logo=readdotcv&logoColor=F76616" alt="Writing" /></a>
-  <a href="https://www.linkedin.com/in/balaraj-r-209a67330"><img src="https://img.shields.io/badge/LinkedIn-1C1917?style=for-the-badge&labelColor=1C1917" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/balarajr/"><img src="https://img.shields.io/badge/LinkedIn-1C1917?style=for-the-badge&labelColor=1C1917" alt="LinkedIn" /></a>
   <a href="https://x.com/Balaraj__r"><img src="https://img.shields.io/badge/X-1C1917?style=for-the-badge&logo=x&logoColor=F76616" alt="X" /></a>
   <a href="https://huggingface.co/balarajr"><img src="https://img.shields.io/badge/Hugging_Face-1C1917?style=for-the-badge&logo=huggingface&logoColor=F76616" alt="Hugging Face" /></a>
-  <a href="mailto:balarajr483@gmail.com"><img src="https://img.shields.io/badge/Email-1C1917?style=for-the-badge&logo=gmail&logoColor=F76616" alt="Email" /></a>
+  <a href="mailto:balu.balarajr@gmail.com"><img src="https://img.shields.io/badge/Email-1C1917?style=for-the-badge&logo=gmail&logoColor=F76616" alt="Email" /></a>
 </p>
 <p>
-  <a href="https://balaraj.me/resume.pdf"><img src="https://img.shields.io/badge/Resume-1C1917?style=for-the-badge&logo=readdotcv&logoColor=F76616" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1eHgU1BzPQ1m0DxUQqf0EbmLVZ-jRKAYk/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-1C1917?style=for-the-badge&logo=readdotcv&logoColor=F76616" alt="Resume" /></a>
   <a href="https://www.kaggle.com/balarajr"><img src="https://img.shields.io/badge/Kaggle-1C1917?style=for-the-badge&logo=kaggle&logoColor=F76616" alt="Kaggle" /></a>
   <a href="https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b"><img src="https://img.shields.io/badge/Google_Skills-1C1917?style=for-the-badge&logo=googlecloud&logoColor=F76616" alt="Google Skills" /></a>
   <a href="https://g.dev/balarajr"><img src="https://img.shields.io/badge/Google_Dev-1C1917?style=for-the-badge&logo=google&logoColor=F76616" alt="Google Developer profile" /></a>
@@ -30,7 +30,7 @@ I build AI systems that have to work outside a demo: agents with hard constraint
 <tr><td><b>Education</b></td><td>B.Tech CSE (AI &amp; ML), PES University, 2024 to 2028</td></tr>
 <tr><td><b>Focus</b></td><td>Multi-agent orchestration, on-device inference, healthcare and agriculture AI</td></tr>
 <tr><td><b>Open to</b></td><td>AI/ML internships, high-impact projects and collaborations</td></tr>
-<tr><td><b>Email</b></td><td><a href="mailto:balarajr483@gmail.com">balarajr483@gmail.com</a></td></tr>
+<tr><td><b>Email</b></td><td><a href="mailto:balu.balarajr@gmail.com">balu.balarajr@gmail.com</a></td></tr>
 </table>
 
 ## Experience
@@ -129,8 +129,8 @@ Also: [TaskForze](https://github.com/balaraj74/TaskForze) · [openNPC](https://g
 
 <table>
 <tr><td><b>Portfolio</b></td><td><a href="https://balaraj.me">balaraj.me</a></td></tr>
-<tr><td><b>Email</b></td><td><a href="mailto:balarajr483@gmail.com">balarajr483@gmail.com</a></td></tr>
-<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/balaraj-r-209a67330">balaraj-r-209a67330</a></td></tr>
+<tr><td><b>Email</b></td><td><a href="mailto:balu.balarajr@gmail.com">balu.balarajr@gmail.com</a></td></tr>
+<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/balarajr/">balarajr</a></td></tr>
 <tr><td><b>X</b></td><td><a href="https://x.com/Balaraj__r">@Balaraj__r</a></td></tr>
 <tr><td><b>Hugging Face</b></td><td><a href="https://huggingface.co/balarajr">balarajr</a></td></tr>
 <tr><td><b>Kaggle</b></td><td><a href="https://www.kaggle.com/balarajr">balarajr</a></td></tr>
