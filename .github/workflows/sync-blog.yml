@@ -23,6 +23,6 @@ jobs:
           feed_list: "https://balaraj.me/rss.xml"
           max_post_count: 5
           readme_path: "README.md"
-          template: "$newline- [$title]($url) — *$date*"
+          template: '$newline<tr><td><b><a href="$url">$title</a></b></td><td align="right"><sub><code>$date</code></sub></td></tr>'
           date_format: "mmm d, yyyy"
           commit_message: "chore: automated sync of latest articles from balaraj.me"

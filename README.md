@@ -91,44 +91,40 @@ Also: [TaskForze](https://github.com/balaraj74/TaskForze) · [openNPC](https://g
 
 ## Recognition
 
-<table>
-<tr>
-<td><b>National Winner</b><br/><sub>Google Gen AI Exchange, 2025</sub></td>
-<td><b>1st Place</b><br/><sub>Inferentia 2.0, 2025</sub></td>
-<td><b>Grand Finale</b><br/><sub>Meta PyTorch OpenEnv, 2026</sub></td>
-<td><b>Finalist</b><br/><sub>Google Gen AI Academy APAC, 2026</sub></td>
-</tr>
-</table>
+<a href="https://balaraj.me/#achievements"><img src="assets/recognition.svg" width="100%" alt="National Winner at Google Gen AI Exchange 2025, 1st Place at Inferentia 2.0 2025, Grand Finale at Meta PyTorch OpenEnv 2026, Finalist at Google Gen AI Academy APAC 2026" /></a>
+
+Merged open-source contributions to **Ubuntu**, **pandas** and **NumPy**.
 
 ## Certifications
 
-- Oracle Cloud Infrastructure Generative AI Professional
-- Google Cloud Gen AI Academy APAC 2026, Cohorts 1 to 3
-- 35+ verified badges on [Google Skills](https://www.skills.google/public_profiles/7e29917e-8bd6-41e6-8149-0795ae63c97b), Gold League
-- HackerRank Frontend Developer (React) and JavaScript (Intermediate)
-
-[All certificates](https://balaraj.me/#achievements)
+<a href="https://balaraj.me/#achievements"><img src="assets/certifications.svg" width="100%" alt="OCI Generative AI Professional, Google Gen AI Academy APAC 2026, 35+ Google Skills badges in Gold League, HackerRank Frontend Developer and JavaScript" /></a>
 
 ## Writing
 
+<table>
 <!-- BLOG-POST-LIST:START -->
-- [AgriSence: The AI Operating System for India&#39;s 140M Smallholder Farmers](https://balaraj.me/blogs/agrisence-ai-agricultural-operating-system) — *Jun 15, 2026*
-- [Building Darwin: The AI Executive Board for Startup Founders](https://balaraj.me/blogs/building-darwin-ai-executive-board) — *Jun 12, 2026*
-- [TaskForze: Autonomous Agent Swarm Orchestration with Dynamic Replanning](https://balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration) — *Jun 10, 2026*
-- [Building VaidyaOS: Offline Healthcare AI Using Edge AI](https://balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai) — *May 29, 2026*
-- [How AgriSence Uses AI for Crop Disease Detection](https://balaraj.me/blogs/how-agrisence-uses-ai-for-crop-disease-detection) — *May 28, 2026*<!-- BLOG-POST-LIST:END -->
+<tr><td><b><a href="https://balaraj.me/blogs/agrisence-ai-agricultural-operating-system">AgriSence: The AI Operating System for India&#39;s 140M Smallholder Farmers</a></b></td><td align="right"><sub><code>Jun 15, 2026</code></sub></td></tr>
+<tr><td><b><a href="https://balaraj.me/blogs/building-darwin-ai-executive-board">Building Darwin: The AI Executive Board for Startup Founders</a></b></td><td align="right"><sub><code>Jun 12, 2026</code></sub></td></tr>
+<tr><td><b><a href="https://balaraj.me/blogs/taskforze-autonomous-agent-swarm-orchestration">TaskForze: Autonomous Agent Swarm Orchestration with Dynamic Replanning</a></b></td><td align="right"><sub><code>Jun 10, 2026</code></sub></td></tr>
+<tr><td><b><a href="https://balaraj.me/blogs/building-vaidyaos-offline-healthcare-ai-edge-ai">Building VaidyaOS: Offline Healthcare AI Using Edge AI</a></b></td><td align="right"><sub><code>May 29, 2026</code></sub></td></tr>
+<tr><td><b><a href="https://balaraj.me/blogs/how-agrisence-uses-ai-for-crop-disease-detection">How AgriSence Uses AI for Crop Disease Detection</a></b></td><td align="right"><sub><code>May 28, 2026</code></sub></td></tr>
+<!-- BLOG-POST-LIST:END -->
+</table>
+
+<a href="https://balaraj.me/blogs">Read all articles</a>
 
 ## Connect
 
-<table>
-<tr><td><b>Portfolio</b></td><td><a href="https://balaraj.me">balaraj.me</a></td></tr>
-<tr><td><b>Email</b></td><td><a href="mailto:balu.balarajr@gmail.com">balu.balarajr@gmail.com</a></td></tr>
-<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/balarajr/">balarajr</a></td></tr>
-<tr><td><b>X</b></td><td><a href="https://x.com/Balaraj__r">@Balaraj__r</a></td></tr>
-<tr><td><b>Hugging Face</b></td><td><a href="https://huggingface.co/balarajr">balarajr</a></td></tr>
-<tr><td><b>Kaggle</b></td><td><a href="https://www.kaggle.com/balarajr">balarajr</a></td></tr>
-<tr><td><b>Google Developer</b></td><td><a href="https://g.dev/balarajr">g.dev/balarajr</a></td></tr>
-<tr><td><b>Instagram</b></td><td><a href="https://www.instagram.com/balaraj.__r/">balaraj.__r</a></td></tr>
-</table>
+<p align="center">
+<a href="https://balaraj.me"><img src="assets/connect/portfolio.svg" width="32%" alt="Portfolio" /></a>
+<a href="mailto:balu.balarajr@gmail.com"><img src="assets/connect/email.svg" width="32%" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/balarajr/"><img src="assets/connect/linkedin.svg" width="32%" alt="LinkedIn" /></a>
+<a href="https://github.com/balaraj74"><img src="assets/connect/github.svg" width="32%" alt="GitHub" /></a>
+<a href="https://x.com/Balaraj__r"><img src="assets/connect/x.svg" width="32%" alt="X" /></a>
+<a href="https://huggingface.co/balarajr"><img src="assets/connect/hugging-face.svg" width="32%" alt="Hugging Face" /></a>
+<a href="https://www.kaggle.com/balarajr"><img src="assets/connect/kaggle.svg" width="32%" alt="Kaggle" /></a>
+<a href="https://g.dev/balarajr"><img src="assets/connect/google-dev.svg" width="32%" alt="Google Dev" /></a>
+<a href="https://www.instagram.com/balaraj.__r/"><img src="assets/connect/instagram.svg" width="32%" alt="Instagram" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F76616,45:7C2D12,100:0C0A09&height=110&section=footer" width="100%" alt="" />
